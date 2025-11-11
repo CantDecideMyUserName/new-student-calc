@@ -11,8 +11,8 @@ const openSans = Open_Sans({
 });
 
 export const metadata: Metadata = {
-  title: `%s | Student Loan Calculator UK`,
-  description: `%s | Student Loan Calculator UK`,
+  title:  "%s",
+  description: "%s",
 };
 
 export default function RootLayout({

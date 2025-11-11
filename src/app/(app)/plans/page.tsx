@@ -5,8 +5,8 @@ import { Metadata } from 'next';
 import React from 'react'
 
 export const metadata: Metadata = {
-  title: "UK Student Loan Plans Explained - Compare All Plan Types",
-  description: "Compare all UK student loan plans including Plan 1, 2, 4, 5 and Postgraduate Loans. Learn about interest rates, repayment thresholds, and write-off periods.",
+  title: "UK Student Loan Plans Explained - Plan 1, 2, 4, 5 & Postgraduate",
+  description: "Complete guide to all UK student loan plans including interest rates, repayment thresholds, and write-off periods.",
   applicationName: "Student Loan Calculator UK",
   authors: [{ name: "Student Loan Calculator UK Team" }],
   generator: "Next.js",

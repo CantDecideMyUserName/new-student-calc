@@ -6,9 +6,8 @@ import { WithContext, WebPage } from 'schema-dts';
 
 export const metadata: Metadata = {
     metadataBase: new URL("https://studentloancalculator.uk"),
-    title: "Terms of Use | Student Loan Calculator UK | Student Loan Calculator UK",
-    description:
-        "Terms of use for Student Loan Calculator UK. Learn about our website usage rules, disclaimers, and intellectual property rights.",
+    title: "Terms of Use - Website Usage Rules & Disclaimers",
+    description: "Terms of use for our student loan calculator tools. Website usage rules, disclaimers, and intellectual property rights.",
     applicationName: "Student Loan Calculator UK",
     authors: [{ name: "Student Loan Calculator UK Team" }],
     creator: "Student Loan Calculator UK",

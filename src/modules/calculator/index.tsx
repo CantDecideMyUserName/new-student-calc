@@ -1,32 +1,32 @@
 import Link from "next/link";
-import type { Metadata } from "next";
+// import type { Metadata } from "next";
 import { Baby, Banknote, BellRing, Briefcase, BriefcaseBusiness, Calculator, Calendar, Clock, Database, DollarSign, FileText, Globe, Home, Layers, PauseCircle, Percent, PiggyBank, Scale, Search, Split, TrendingUp, Users } from "lucide-react";
 
-export const metadata: Metadata = {
-  title:
-    "Student Loan Calculators UK - All Tools & Repayment Estimators | Student Loan Calculator UK",
-  description:
-    "Browse all UK student loan calculators. Compare monthly payments, interest, total cost and more across Plan 1, 2, 4, 5 and Postgraduate loans.",
-  alternates: {
-    canonical: "https://studentloancalculator.uk/calculators/",
-  },
-  openGraph: {
-    title: "Student Loan Calculator UK - Free Repayment Calculator & Guides",
-    description:
-      "Calculate your UK student loan repayments with our free calculators. Accurate repayment estimates for all loan types.",
-    url: "https://studentloancalculator.co.uk/",
-    siteName: "Student Loan Calculator UK",
-    locale: "en_GB",
-    type: "website",
-  },
-  twitter: {
-    card: "summary_large_image",
-    title: "Student Loan Calculator UK",
-    description:
-      "Calculate your UK student loan repayments with our free calculators.",
-  },
-  robots: { index: true, follow: true },
-};
+// export const metadata: Metadata = {
+//   title:
+//     "Calculators - All Tools & Repayment Estimators | Student Loan Calculator UK",
+//   description:
+//     "Browse all UK student loan calculators. Compare monthly payments, interest, total cost and more across Plan 1, 2, 4, 5 and Postgraduate loans.",
+//   alternates: {
+//     canonical: "https://studentloancalculator.uk/calculators/",
+//   },
+//   openGraph: {
+//     title: "Student Loan Calculator UK - Free Repayment Calculator & Guides",
+//     description:
+//       "Calculate your UK student loan repayments with our free calculators. Accurate repayment estimates for all loan types.",
+//     url: "https://studentloancalculator.co.uk/",
+//     siteName: "Student Loan Calculator UK",
+//     locale: "en_GB",
+//     type: "website",
+//   },
+//   twitter: {
+//     card: "summary_large_image",
+//     title: "Student Loan Calculator UK",
+//     description:
+//       "Calculate your UK student loan repayments with our free calculators.",
+//   },
+//   robots: { index: true, follow: true },
+// };
 
 export default function CalculatorsPage() {
   return (
@@ -37,7 +37,7 @@ export default function CalculatorsPage() {
           <section className="bg-blue-50 rounded-2xl p-8 md:p-12">
             <div className="max-w-4xl mx-auto">
               <h1 className="text-3xl md:text-4xl font-bold text-gray-800 mb-4">
-                Student Loan Calculators
+                Calculators
               </h1>
               <p className="text-xl text-gray-600">
                 Choose from our range of specialised calculators to understand

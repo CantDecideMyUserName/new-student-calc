@@ -5,13 +5,13 @@ import { JsonLd } from '@/modules/seo/json-ld';
 import CalculatorsPage from '@/modules/calculator';
 
 export const metadata: Metadata = {
-  title: "Student Loan Calculators UK - All Tools & Repayment Estimators",
-  description: "Browse all UK student loan calculators. Compare monthly payments, interest, total cost and more across Plan 1, 2, 4, 5 and Postgraduate loans.",
+  title: "Calculators - All Tools & Repayment Estimators | Student Loan Calculator UK",
+  description: "Browse all calculators. Compare monthly payments, interest, total cost and more across Plan 1, 2, 4, 5 and Postgraduate loans.",
   applicationName: "Student Loan Calculator UK",
   authors: [{ name: "Student Loan Calculator UK Team" }],
   generator: "Next.js",
   keywords: [
-    "student loan calculator",
+    "calculator",
     "uk student loan",
     "plan 2 calculator",
     "plan 5 calculator",
@@ -40,8 +40,8 @@ export const metadata: Metadata = {
     email: false,
   },
   openGraph: {
-    title: "Student Loan Calculator UK - Free Repayment Calculator & Guides",
-    description: "Calculate your UK student loan repayments with our free calculators. Accurate repayment estimates for all loan types.",
+    title: "Calculators - All Tools & Repayment Estimators | Student Loan Calculator UK",
+    description: "Browse all calculators. Compare monthly payments, interest, total cost and more across Plan 1, 2, 4, 5 and Postgraduate loans.",
     url: "https://studentloancalculator.uk/calculators/",
     siteName: "Student Loan Calculator UK",
     locale: "en_GB",
@@ -58,7 +58,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "Student Loan Calculator UK",
-    description: "Calculate your UK student loan repayments with our free calculators.",
+    description: "Browse all calculators. Compare monthly payments, interest, total cost and more across Plan 1, 2, 4, 5 and Postgraduate loans.",
     images: ["https://studentloancalculator.uk/og-image.jpg"], // Update to production URL
   },
   icons: {
@@ -79,8 +79,8 @@ const CalculatorListPage = () => {
   const webPageSchema: WithContext<WebPage> = {
     "@context": "https://schema.org",
     "@type": "WebPage",
-    name: "UK Student Loan Calculators",
-    description: "Collection of free UK student loan calculators for all plan types and scenarios.",
+    name: "Calculators",
+    description: "Collection of calculators for all plan types and scenarios.",
     url: "https://studentloancalculator.co.uk/calculators",
     datePublished: "2025-05-09T05:42:41.388Z",
     dateModified: new Date().toISOString(),

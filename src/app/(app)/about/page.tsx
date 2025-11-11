@@ -7,7 +7,7 @@ import React from 'react'
 export const metadata: Metadata = {
     metadataBase: new URL("https://studentloancalculator.uk"),
     title:
-        "About Student Loan Calculator UK - Our Mission & Team | Student Loan Calculator UK",
+        "About Student Loan Calculator UK - Our Mission & Team",
     description:
         "Learn about Student Loan Calculator UK, our mission to help students understand their loans, and how our calculators work. Built by education policy experts.",
     applicationName: "Student Loan Calculator UK",
