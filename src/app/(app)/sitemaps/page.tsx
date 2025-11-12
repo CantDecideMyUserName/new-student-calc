@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Sitemap - Student Loan Calculator',
+  title: 'User Sitemap - Find all of our Pages',
   description: 'Navigate through all our calculators, guides, and resources to help you understand and manage your UK student loans',
 };
 

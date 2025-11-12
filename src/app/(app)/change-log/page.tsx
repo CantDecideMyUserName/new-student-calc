@@ -4,19 +4,11 @@ import React from 'react'
 
 export const metadata: Metadata = {
     metadataBase: new URL("https://studentloancalculator.uk"),
-    title: "Change Log | Student Loan Calculator UK",
+    title: "Change Log | New & Old Version Information",
     description: "Change log for Student Loan Calculator UK. See what's new and what's changed in our calculators, guides, and tools.",
     applicationName: "Student Loan Calculator UK",
     authors: [{ name: "Student Loan Calculator UK Team" }],
     generator: "Next.js",
-    keywords: [
-        "student loan calculator",
-        "uk student loan",
-        "plan 2 calculator",
-        "plan 5 calculator",
-        "student finance",
-        "loan repayments",
-    ],
     creator: "Student Loan Calculator UK",
     publisher: "Student Loan Calculator UK",
     robots: {

@@ -7,21 +7,13 @@ import ContactPage from '@/modules/contact';
 
 export const metadata: Metadata = {
     metadataBase: new URL("https://studentloancalculator.uk"),
-    title: "Contact | Student Loan Calculator UK | Student Loan Calculator UK",
+    title: "Contact | Get in Touch with Us",
     description:
         "Get in touch with the Student Loan Calculator UK team. We're here to help with questions about our calculators and student loan information.",
     applicationName: "Student Loan Calculator UK",
     authors: [{ name: "Student Loan Calculator UK Team" }],
     creator: "Student Loan Calculator UK",
     publisher: "Student Loan Calculator UK",
-    keywords: [
-        "student loan calculator",
-        "uk student loan",
-        "plan 2 calculator",
-        "plan 5 calculator",
-        "student finance",
-        "loan repayments",
-    ],
     alternates: { canonical: "/contact/" },
     robots: {
         index: true,

@@ -7,21 +7,13 @@ import { WithContext, WebPage } from 'schema-dts';
 
 export const metadata: Metadata = {
     metadataBase: new URL("https://studentloancalculator.uk"),
-    title: "Privacy Policy | Student Loan Calculator UK | Student Loan Calculator UK",
+    title: "Privacy Policy",
     description:
         "Our privacy policy outlines how we collect, use, and protect your information when you use Student Loan Calculator UK.",
     applicationName: "Student Loan Calculator UK",
     authors: [{ name: "Student Loan Calculator UK Team" }],
     creator: "Student Loan Calculator UK",
     publisher: "Student Loan Calculator UK",
-    keywords: [
-        "student loan calculator",
-        "uk student loan",
-        "plan 2 calculator",
-        "plan 5 calculator",
-        "student finance",
-        "loan repayments",
-    ],
     alternates: { canonical: "/privacy-policy/" },
     robots: {
         index: true,

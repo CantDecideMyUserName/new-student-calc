@@ -2,8 +2,8 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: 'Disclaimer | Student Loan Calculator UK',
-  description: 'Important disclaimer and legal information about the Student Loan Calculator UK website and the information provided.',
+  title: 'Disclaimer',
+  description: 'Important disclaimer and legal information about the website and the information provided.',
   robots: 'index, follow',
 };
 

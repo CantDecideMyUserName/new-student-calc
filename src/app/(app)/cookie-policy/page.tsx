@@ -2,8 +2,8 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: 'Cookie Policy | Student Loan Calculator UK',
-  description: 'Learn about how Student Loan Calculator UK uses cookies and similar technologies to enhance your browsing experience.',
+  title: 'Cookie Policy',
+  description: 'Learn about how we use cookies and similar technologies to enhance your browsing experience.',
   robots: 'index, follow',
 };
 
