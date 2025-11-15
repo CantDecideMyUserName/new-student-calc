@@ -11,6 +11,7 @@ const NAV_LINKS = [
   { href: "/calculators", label: "Calculators", hasMegaMenu: true },
   { href: "/plans", label: "Plans", hasMegaMenu: true },
   { href: "/guides", label: "Guides", hasMegaMenu: true },
+  { href: "/compare", label: "Compare", hasMegaMenu: true },
   { href: "/faqs", label: "FAQs" },
 ];
 
@@ -151,6 +152,35 @@ const GUIDE_CATEGORIES = [
   }
 ];
 
+const COMPARE_CATEGORIES = [
+  {
+    title: "Plan Comparisons",
+    comparisons: [
+      { href: "/compare/plan-1-vs-plan-2/", label: "Plan 1 vs Plan 2" },
+      { href: "/compare/plan-2-vs-plan-5/", label: "Plan 2 vs Plan 5" },
+      { href: "/compare/plan-4-vs-plan-5/", label: "Plan 4 vs Plan 5" },
+      { href: "/compare/undergraduate-vs-postgraduate/", label: "Undergraduate vs Postgraduate" },
+    ]
+  },
+  {
+    title: "Interactive Comparisons Tools",
+    comparisons: [
+      { href: "/calculators/monthly-repayment-calculator/", label: "Monthly Repayment Calculator" },
+      { href: "/calculators/total-loan-cost-calculator/", label: "Total Loan Cost Calculator" },
+      { href: "/calculators/combined-repayment-calculator/", label: "Combined Loans Calculator" },
+    ]
+  },
+  {
+    title: "Salary & Career Comparisons",
+    comparisons: [
+      { href: "/compare/student-loans-on-25k-salary/", label: "Student Loans on £25k Salary" },
+      { href: "/compare/student-loans-on-50k-salary/", label: "Student Loans on £50k Salary" },
+      { href: "/compare/student-loans-by-profession/", label: "Student Loans by Profession" },
+      { href: "/compare/student-loans-career-progression/", label: "Student Loans Career Progression" },
+    ]
+  },
+];
+
 const Navbar = () => {
   const pathname = usePathname();
   const router = useRouter();
@@ -158,9 +188,11 @@ const Navbar = () => {
   const [activeCalculators, setActiveCalculators] = useState(false);
   const [activePlans, setActivePlans] = useState(false);
   const [activeGuides, setActiveGuides] = useState(false);
+  const [activeCompare, setActiveCompare] = useState(false);
   const [mobileCalculatorsOpen, setMobileCalculatorsOpen] = useState(false);
   const [mobilePlansOpen, setMobilePlansOpen] = useState(false);
   const [mobileGuidesOpen, setMobileGuidesOpen] = useState(false);
+  const [mobileCompareOpen, setMobileCompareOpen] = useState(false);
 
   const dropdownRef = useRef<HTMLDivElement>(null);
 
@@ -171,6 +203,7 @@ const Navbar = () => {
         setActiveCalculators(false);
         setActivePlans(false);
         setActiveGuides(false);
+        setActiveCompare(false);
       }
     };
 
@@ -200,8 +233,9 @@ const Navbar = () => {
 
     const isCalculators = href === "/calculators";
     const isPlans = href === "/plans";
-    const isOpen = isCalculators ? activeCalculators : isPlans ? activePlans : activeGuides;
-    const setIsOpen = isCalculators ? setActiveCalculators : isPlans ? setActivePlans : setActiveGuides;
+    const isCompare = href === "/compare";
+    const isOpen = isCalculators ? activeCalculators : isPlans ? activePlans : isCompare ? activeCompare : activeGuides;
+    const setIsOpen = isCalculators ? setActiveCalculators : isPlans ? setActivePlans : isCompare ? setActiveCompare : setActiveGuides;
 
     return (
       <div
@@ -228,7 +262,7 @@ const Navbar = () => {
             <div className="bg-white shadow-xl ring-1 ring-black ring-opacity-5 rounded-lg border border-gray-200">
               <div className="p-8">
                 <div className="flex flex-wrap justify-normal gap-8">
-                  {(isCalculators ? CALCULATOR_CATEGORIES : isPlans ? PLAN_CATEGORIES : GUIDE_CATEGORIES).map((category) => (
+                  {(isCalculators ? CALCULATOR_CATEGORIES : isPlans ? PLAN_CATEGORIES : isCompare ? COMPARE_CATEGORIES : GUIDE_CATEGORIES).map((category) => (
                     <div key={category.title} className="space-y-2">
                       <h4 className="text-sm font-semibold text-primary uppercase tracking-wide border-b border-orange-100 pb-2">
                         {category.title}
@@ -236,9 +270,11 @@ const Navbar = () => {
                       <ul className="space-y-1">
                         {(isCalculators
                           ? (category as typeof CALCULATOR_CATEGORIES[0]).calculators
-                          : isPlans 
+                          : isPlans
                             ? (category as typeof PLAN_CATEGORIES[0]).plans
-                            : (category as typeof GUIDE_CATEGORIES[0]).guides
+                            : isCompare
+                              ? (category as typeof COMPARE_CATEGORIES[0]).comparisons
+                              : (category as typeof GUIDE_CATEGORIES[0]).guides
                         ).map((item) => (
                           <li key={item.href}>
                             <Link
@@ -248,6 +284,7 @@ const Navbar = () => {
                                 setActiveCalculators(false);
                                 setActivePlans(false);
                                 setActiveGuides(false);
+                                setActiveCompare(false);
                               }}
                             >
                               <div>
@@ -272,14 +309,17 @@ const Navbar = () => {
   };
 
   const getTotalItems = (section: string) => {
-    const categories = section === "calculators" ? CALCULATOR_CATEGORIES : 
-                     section === "plans" ? PLAN_CATEGORIES : GUIDE_CATEGORIES;
+    const categories = section === "calculators" ? CALCULATOR_CATEGORIES :
+      section === "plans" ? PLAN_CATEGORIES :
+      section === "compare" ? COMPARE_CATEGORIES : GUIDE_CATEGORIES;
     return categories.reduce(
       (acc, cat) => acc + (section === "calculators"
         ? (cat as typeof CALCULATOR_CATEGORIES[0]).calculators.length
         : section === "plans"
           ? (cat as typeof PLAN_CATEGORIES[0]).plans.length
-          : (cat as typeof GUIDE_CATEGORIES[0]).guides.length),
+          : section === "compare"
+            ? (cat as typeof COMPARE_CATEGORIES[0]).comparisons.length
+            : (cat as typeof GUIDE_CATEGORIES[0]).guides.length),
       0
     );
   };
@@ -346,10 +386,11 @@ const Navbar = () => {
 
               const isCalculators = href === "/calculators";
               const isPlans = href === "/plans";
-              const isOpen = isCalculators ? mobileCalculatorsOpen : isPlans ? mobilePlansOpen : mobileGuidesOpen;
-              const setIsOpen = isCalculators ? setMobileCalculatorsOpen : isPlans ? setMobilePlansOpen : setMobileGuidesOpen;
-              const section = isCalculators ? "calculators" : isPlans ? "plans" : "guides";
-              const categories = isCalculators ? CALCULATOR_CATEGORIES : isPlans ? PLAN_CATEGORIES : GUIDE_CATEGORIES;
+              const isCompare = href === "/compare";
+              const isOpen = isCalculators ? mobileCalculatorsOpen : isPlans ? mobilePlansOpen : isCompare ? mobileCompareOpen : mobileGuidesOpen;
+              const setIsOpen = isCalculators ? setMobileCalculatorsOpen : isPlans ? setMobilePlansOpen : isCompare ? setMobileCompareOpen : setMobileGuidesOpen;
+              const section = isCalculators ? "calculators" : isPlans ? "plans" : isCompare ? "compare" : "guides";
+              const categories = isCalculators ? CALCULATOR_CATEGORIES : isPlans ? PLAN_CATEGORIES : isCompare ? COMPARE_CATEGORIES : GUIDE_CATEGORIES;
 
               return (
                 <motion.div
@@ -402,7 +443,9 @@ const Navbar = () => {
                                 ? (category as typeof CALCULATOR_CATEGORIES[0]).calculators
                                 : isPlans
                                   ? (category as typeof PLAN_CATEGORIES[0]).plans
-                                  : (category as typeof GUIDE_CATEGORIES[0]).guides
+                                  : isCompare
+                                    ? (category as typeof COMPARE_CATEGORIES[0]).comparisons
+                                    : (category as typeof GUIDE_CATEGORIES[0]).guides
                               ).map((item) => (
                                 <li key={item.href}>
                                   <Link
