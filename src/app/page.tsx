@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import HomePage from "@/modules/hero/templates/home";
 
 export const metadata: Metadata = {
-  title: "Student Loan Calculator UK - Free UK Student Loan Repayment Calculators",
-  description: "Calculate your UK student loan repayments with our free tools. Compare Plan 1, 2, 4, 5 and Postgraduate loans.",
+  title: "Student Loan Calculator UK – Repayment & Write-Offs (2025 Rules)",
+  description: "UK Student Loan Calculator using 2025 repayment rules. Estimate monthly payments, lifetime cost, interest, and write-off dates for Plan 1, 2, 4, ,5 and postgraduate loans.",
   applicationName: "Student Loan Calculator UK",
   authors: [{ name: "Student Loan Calculator UK Team" }],
   generator: "Next.js",
