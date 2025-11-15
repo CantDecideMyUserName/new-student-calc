@@ -133,11 +133,11 @@ const Plan2vsPlan5Page = () => {
                             className="underline hover:text-gray-700"
                             target="_blank"
                             rel="noopener noreferrer"
-                            href="https://www.gov.uk/guidance/plan-5-undergraduate-loan-repayment"
+                            href="https://www.gov.uk/guidance/how-interest-is-calculated-plan-5"
                         >
                             Student Finance England
                         </Link>{" "}
-                        (January 2024)
+                        (September 1 2025)
                     </p>
                 </div>
 
@@ -377,7 +377,7 @@ const Plan2vsPlan5Page = () => {
                         <li className="flex items-start">
                             <span className="text-gray-500 mr-2">2.</span>
                             <div>
-                                <Link target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline font-medium" href="https://www.gov.uk/guidance/plan-5-undergraduate-loan-repayment">
+                                <Link target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline font-medium" href="https://www.gov.uk/guidance/how-interest-is-calculated-plan-5">
                                     Plan 5 Student Loans Explained
                                 </Link>
                                 <p className="text-sm text-gray-600">GOV.UK</p>
@@ -386,10 +386,19 @@ const Plan2vsPlan5Page = () => {
                         <li className="flex items-start">
                             <span className="text-gray-500 mr-2">3.</span>
                             <div>
-                                <Link target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline font-medium" href="https://www.gov.uk/government/collections/sfe-student-loan-repayment">
-                                    Student Loan Repayment Thresholds and Interest Rates
+                                <Link target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline font-medium" href="https://www.gov.uk/guidance/how-interest-is-calculated-plan-2">
+                                   Plan 2 Student Loan Calculation
                                 </Link>
-                                <p className="text-sm text-gray-600">Student Finance England</p>
+                                <p className="text-sm text-gray-600">GOV.UK</p>
+                            </div>
+                        </li>
+                        <li className="flex items-start">
+                            <span className="text-gray-500 mr-2">4.</span>
+                            <div>
+                                <Link target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline font-medium" href="https://www.gov.uk/guidance/how-interest-is-calculated-plan-5">
+                                   Plan 5 Student Loan Calculation
+                                </Link>
+                                <p className="text-sm text-gray-600">GOV.UK</p>
                             </div>
                         </li>
                     </ul>

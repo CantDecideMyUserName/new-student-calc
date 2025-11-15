@@ -868,12 +868,12 @@ const PAYEPeriodConverter: React.FC = () => {
               Official SL Info
             </a>
             <a
-              href="https://www.gov.uk/guidance/payroll-student-loans"
+              href="https://www.saas.gov.uk/need-to-know/payments/student-loan/loan-payments"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-teal-700 text-white font-semibold py-3 px-4 sm:px-6 rounded-lg hover:bg-teal-800 transition-colors text-sm sm:text-base"
             >
-              Payroll Guidance
+              Payment Guidance
             </a>
           </div>
         </section>

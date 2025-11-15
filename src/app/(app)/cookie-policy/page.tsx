@@ -468,7 +468,7 @@ export default function CookiePolicyPage() {
                 </li>
                 <li>
                   <a 
-                    href="https://www.allaboutcookies.org/" 
+                    href="https://www.allaboutcookies.org" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="text-blue-600 hover:text-blue-800 underline"

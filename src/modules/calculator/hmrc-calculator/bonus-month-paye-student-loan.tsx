@@ -898,7 +898,7 @@ const BonusCalculator: React.FC = () => {
           </p>
           <div className="flex flex-col sm:flex-row gap-3 sm:gap-4 justify-center">
             <a
-              href="https://www.gov.uk/topic/personal-tax/paye"
+              href="https://www.gov.uk/government/statistics/student-loan-repayments-via-paye-eligible-for-refund-tax-year-202425"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-white text-cyan-600 font-semibold py-3 px-4 sm:px-6 rounded-lg hover:bg-gray-100 transition-colors text-sm sm:text-base"

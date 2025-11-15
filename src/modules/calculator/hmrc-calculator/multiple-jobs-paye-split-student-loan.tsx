@@ -904,7 +904,7 @@ const MultipleJobsPAYECalculator: React.FC = () => {
               Contact Student Finance
             </a>
             <a
-              href="https://www.gov.uk/guidance/pay-as-you-earn-paye-for-employers"
+              href="https://www.gov.uk/government/publications/pay-as-you-earn-paye-service-availability-and-issues"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-emerald-700 text-white font-semibold py-3 px-4 sm:px-6 rounded-lg hover:bg-emerald-800 transition-colors text-sm sm:text-base"

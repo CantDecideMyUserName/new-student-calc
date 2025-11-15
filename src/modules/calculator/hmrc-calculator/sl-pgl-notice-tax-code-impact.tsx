@@ -980,12 +980,12 @@ const NoticeSimulator: React.FC = () => {
           </p>
           <div className="flex flex-col sm:flex-row gap-3 sm:gap-4 justify-center">
             <a
-              href="https://www.gov.uk/guidance/student-loan-deductions-from-pay-for-employers"
+              href="https://www.gov.uk/guidance/special-rules-for-student-loans"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-white text-purple-600 font-semibold py-3 px-4 sm:px-6 rounded-lg hover:bg-gray-100 transition-colors text-sm sm:text-base"
             >
-              Employer Guidance
+              Special Rules & Employer Guidance
             </a>
             <a
               href="https://www.gov.uk/repaying-your-student-loan"
@@ -993,7 +993,7 @@ const NoticeSimulator: React.FC = () => {
               rel="noopener noreferrer"
               className="bg-purple-700 text-white font-semibold py-3 px-4 sm:px-6 rounded-lg hover:bg-purple-800 transition-colors text-sm sm:text-base"
             >
-              Employee Information
+              Repaying Your Student Loan
             </a>
           </div>
         </section>

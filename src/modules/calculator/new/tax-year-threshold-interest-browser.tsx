@@ -927,12 +927,12 @@ const ThresholdInterestBrowser: React.FC = () => {
         
         <div className="mt-4 flex flex-wrap gap-2">
           <a
-            href="https://www.gov.uk/government/collections/student-loan-interest-rates-and-charges"
+            href="https://www.gov.uk/government/publications/student-loans-a-guide-to-terms-and-conditions/student-loans-a-guide-to-terms-and-conditions-2025-to-2026"
             target="_blank"
             rel="noopener noreferrer"
             className="text-xs bg-blue-100 text-blue-800 px-2 py-1 rounded hover:bg-blue-200"
           >
-            Official Interest Rates
+            New Terms and Conditions 2026/26
           </a>
           <a
             href="https://www.gov.uk/repaying-your-student-loan/what-you-pay"

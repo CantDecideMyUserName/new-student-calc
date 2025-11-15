@@ -1096,7 +1096,7 @@ const UmbrellaIR35Calculator: React.FC = () => {
           </p>
           <div className="flex flex-col sm:flex-row gap-3 sm:gap-4 justify-center">
             <a
-              href="https://www.gov.uk/guidance/ir35-working-through-an-intermediary"
+              href="https://www.gov.uk/government/collections/off-payroll-working-ir35-detailed-information"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-white text-purple-600 font-semibold py-3 px-4 sm:px-6 rounded-lg hover:bg-gray-100 transition-colors text-sm sm:text-base"

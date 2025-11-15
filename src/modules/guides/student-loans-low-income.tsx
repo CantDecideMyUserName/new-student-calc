@@ -384,10 +384,10 @@ export function LowIncomeGuide() {
                   </p>
                   <div className="flex flex-wrap justify-center gap-4">
                     <Link
-                      href="/calculators/simple-student-loan-calculator/"
+                      href="/"
                       className="bg-white text-blue-700 font-semibold px-6 py-3 rounded-lg shadow-md hover:shadow-lg transition-all"
                     >
-                      Simple Student Loan Calculator
+                    Student Loan Calculator
                     </Link>
                   </div>
                 </div>

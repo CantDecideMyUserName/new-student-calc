@@ -834,8 +834,8 @@ export default function Plan2CalculatorPage() {
                   />
                   <SourceItem
                     n={3}
-                    href="https://www.gov.uk/guidance/plan-2-when-you-repay"
-                    title="Plan 2: When you repay"
+                    href="http://educationhub.blog.gov.uk/2022/06/what-you-need-to-know-about-plan-2-student-loan-repayments/"
+                    title="Plan 2: Repayment Guide"
                     meta="GOV.UK"
                   />
                 </ul>
