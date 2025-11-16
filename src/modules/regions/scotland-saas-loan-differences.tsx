@@ -62,10 +62,10 @@ export default function ScotlandSAASLoanDifferencesPage() {
               </nav>
 
               <h1 className="text-3xl md:text-4xl font-bold text-gray-800 mt-4 mb-4">
-                Scotland's Student Finance System: SAAS, Free Tuition & Plan 4 Explained
+                Scotland&apos;s Student Finance System: SAAS, Free Tuition & Plan 4 Explained
               </h1>
               <p className="text-xl text-gray-600">
-                Understanding Scotland's distinctive approach to higher education funding, from free tuition to Plan 4 repayments
+                Understanding Scotland&apos;s distinctive approach to higher education funding, from free tuition to Plan 4 repayments
               </p>
             </div>
           </section>
@@ -81,10 +81,10 @@ export default function ScotlandSAASLoanDifferencesPage() {
               <section className="max-w-4xl mx-auto mb-12">
                 <div className="prose max-w-none text-gray-600">
                   <p className="lead text-lg">
-                    Scotland operates the most distinctive student finance system in the United Kingdom, fundamentally different from England, Wales, and Northern Ireland. Scottish students benefit from free tuition at Scottish universities, lower loan balances, and Plan 4 repayment terms that reflect Scotland's unique policy priorities around accessible higher education.
+                    Scotland operates the most distinctive student finance system in the United Kingdom, fundamentally different from England, Wales, and Northern Ireland. Scottish students benefit from free tuition at Scottish universities, lower loan balances, and Plan 4 repayment terms that reflect Scotland&apos;s unique policy priorities around accessible higher education.
                   </p>
                   <p>
-                    Administered by the Student Awards Agency Scotland (SAAS), Scotland's system eliminates tuition fees for eligible Scottish-domiciled students studying in Scotland, resulting in significantly lower debt levels compared to England's £45,000+ average. This guide explains how SAAS operates, who qualifies for free tuition, and how Plan 4 loans differ from other UK plans.
+                    Administered by the Student Awards Agency Scotland (SAAS), Scotland&apos;s system eliminates tuition fees for eligible Scottish-domiciled students studying in Scotland, resulting in significantly lower debt levels compared to England&apos;s £45,000+ average. This guide explains how SAAS operates, who qualifies for free tuition, and how Plan 4 loans differ from other UK plans.
                   </p>
                   <div className="bg-yellow-50 border-l-4 border-yellow-400 p-4 my-6 rounded">
                     <p className="font-medium">
@@ -97,12 +97,12 @@ export default function ScotlandSAASLoanDifferencesPage() {
               {/* Scotland Overview */}
               <section id="scotland-overview" className="max-w-6xl mx-auto mb-12 scroll-mt-24">
                 <h2 className="text-2xl font-semibold text-gray-800 border-b border-gray-200 pb-4 mb-6">
-                  Scotland's Unique Student Finance Model
+                  Scotland&apos;s Unique Student Finance Model
                 </h2>
 
                 <div className="prose max-w-none text-gray-600">
                   <p>
-                    Scotland's student finance system reflects fundamentally different policy philosophy compared to the rest of the UK. Since 2008, the Scottish Government has maintained free tuition for Scottish-domiciled students, funded through general taxation rather than individual graduate contribution.
+                    Scotland&apos;s student finance system reflects fundamentally different policy philosophy compared to the rest of the UK. Since 2008, the Scottish Government has maintained free tuition for Scottish-domiciled students, funded through general taxation rather than individual graduate contribution.
                   </p>
 
                   <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">The Scottish Model: Key Principles</h3>
@@ -111,7 +111,7 @@ export default function ScotlandSAASLoanDifferencesPage() {
                       <strong>Free tuition as policy commitment:</strong> Scottish students do not pay tuition fees for their first undergraduate degree at Scottish institutions
                     </li>
                     <li>
-                      <strong>Lower debt levels:</strong> Scottish graduates typically borrow £20,000-£25,000 for living costs only, compared to England's £45,000+ for fees and maintenance
+                      <strong>Lower debt levels:</strong> Scottish graduates typically borrow £20,000-£25,000 for living costs only, compared to England&apos;s £45,000+ for fees and maintenance
                     </li>
                     <li>
                       <strong>Plan 4 repayment terms:</strong> Higher threshold (£32,745), lower interest rates, and 30-year write-off period
@@ -180,14 +180,14 @@ export default function ScotlandSAASLoanDifferencesPage() {
                     </table>
                   </div>
 
-                  <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Why Scotland's System is Different</h3>
+                  <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Why Scotland&apos;s System is Different</h3>
                   <p>
-                    Scotland's approach to higher education funding predates devolution but has become a defining policy of the Scottish Parliament since 1999. The free tuition policy, maintained continuously since 2008, reflects:
+                    Scotland&apos;s approach to higher education funding predates devolution but has become a defining policy of the Scottish Parliament since 1999. The free tuition policy, maintained continuously since 2008, reflects:
                   </p>
                   <ul className="list-disc pl-6 mt-3 mb-6">
                     <li>Commitment to education as a public good rather than individual investment</li>
                     <li>Political consensus across major Scottish parties (SNP, Labour, Lib Dems, Greens)</li>
-                    <li>Desire to differentiate Scottish policy from England's market-based approach</li>
+                    <li>Desire to differentiate Scottish policy from England&apos;s market-based approach</li>
                     <li>Historical traditions of accessible education in Scotland</li>
                   </ul>
 
@@ -210,10 +210,10 @@ export default function ScotlandSAASLoanDifferencesPage() {
 
                 <div className="prose max-w-none text-gray-600">
                   <p>
-                    "Free tuition" is Scotland's most distinctive higher education feature, but it requires understanding what is free, who qualifies, and how the system operates in practice.
+                    &quot;Free tuition&quot;is Scotland&apos;s most distinctive higher education feature, but it requires understanding what is free, who qualifies, and how the system operates in practice.
                   </p>
 
-                  <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">What "Free Tuition" Actually Means</h3>
+                  <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">What &quot;Free Tuition&quot;Actually Means</h3>
                   <p>
                     Scottish students do not pay tuition fees upfront or through loans. Instead, SAAS pays £1,820 per year directly to the university on behalf of eligible students. This fee level has remained unchanged since 2009-10.
                   </p>
@@ -221,7 +221,7 @@ export default function ScotlandSAASLoanDifferencesPage() {
                   <div className="bg-blue-50 rounded-lg p-4 my-4">
                     <p className="font-medium mb-2">Understanding the £1,820 Figure:</p>
                     <p>
-                      This is the "home fee" rate that Scottish universities charge per student per year. It represents only part of the actual cost of education – the Scottish Funding Council provides additional institutional grant funding (£3,781 to £15,940 per student depending on subject) to cover the full cost of teaching.
+                      This is the&quot;home fee&quot;rate that Scottish universities charge per student per year. It represents only part of the actual cost of education – the Scottish Funding Council provides additional institutional grant funding (£3,781 to £15,940 per student depending on subject) to cover the full cost of teaching.
                     </p>
                   </div>
 
@@ -264,18 +264,18 @@ export default function ScotlandSAASLoanDifferencesPage() {
 
                   <div className="bg-yellow-50 border-l-4 border-yellow-400 p-4 my-6 rounded">
                     <p className="font-medium">
-                      Important: Failing to apply to SAAS means you'll be charged the £1,820 home fee rate directly by your university. Always complete your SAAS application early, even if you're certain you qualify.
+                      Important: Failing to apply to SAAS means you&apos;ll be charged the £1,820 home fee rate directly by your university. Always complete your SAAS application early, even if you&apos;re certain you qualify.
                     </p>
                   </div>
 
                   <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Duration of Free Tuition Support</h3>
                   <p>
-                    SAAS will pay tuition fees for up to five years total. Since most Scottish degrees are four years, this provides one year's buffer. If you change courses or repeat years, your five-year allowance continues counting.
+                    SAAS will pay tuition fees for up to five years total. Since most Scottish degrees are four years, this provides one year&apos;s buffer. If you change courses or repeat years, your five-year allowance continues counting.
                   </p>
 
-                  <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">What Free Tuition Doesn't Cover</h3>
+                  <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">What Free Tuition Doesn&apos;t Cover</h3>
                   <p>
-                    "Free tuition" applies only to tuition fees. Scottish students still need to cover:
+                   &quot;Free tuition&quot; applies only to tuition fees. Scottish students still need to cover:
                   </p>
                   <ul className="list-disc pl-6 mt-3 mb-6">
                     <li>Living costs (accommodation, food, transport, books)</li>
@@ -291,7 +291,7 @@ export default function ScotlandSAASLoanDifferencesPage() {
               {/* Plan 4 Details */}
               <section id="plan-4-details" className="max-w-6xl mx-auto mb-12 scroll-mt-24">
                 <h2 className="text-2xl font-semibold text-gray-800 border-b border-gray-200 pb-4 mb-6">
-                  Plan 4 Loans: Scotland's Repayment System
+                  Plan 4 Loans: Scotland&apos;s Repayment System
                 </h2>
 
                 <div className="prose max-w-none text-gray-600">
@@ -344,9 +344,9 @@ export default function ScotlandSAASLoanDifferencesPage() {
                     </ul>
                   </div>
 
-                  <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Why Plan 4's High Threshold Matters</h3>
+                  <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Why Plan 4&apos;s High Threshold Matters</h3>
                   <p>
-                    Scotland's £32,745 threshold is the highest in the UK – £7,745 higher than England's Plan 5 (£25,000) and £5,450 higher than Wales's Plan 2 (£27,295). This means:
+                    Scotland&apos;s £32,745 threshold is the highest in the UK – £7,745 higher than England&apos;s Plan 5 (£25,000) and £5,450 higher than Wales&apos;s Plan 2 (£27,295). This means:
                   </p>
                   <ul className="list-disc pl-6 mt-3 mb-6">
                     <li>Scottish graduates start repaying at higher salaries</li>
@@ -369,13 +369,13 @@ export default function ScotlandSAASLoanDifferencesPage() {
                     Scotland uses the same interest calculation as Plan 1: the lower of either RPI (Retail Price Index) or the Bank of England base rate plus 1%. This typically results in:
                   </p>
                   <ul className="list-disc pl-6 mt-3 mb-6">
-                    <li>Lower interest rates than England's Plan 2 (which can reach RPI+3%)</li>
-                    <li>Similar rates to England's Plan 5 (RPI only)</li>
-                    <li>Interest rates that don't vary based on income level</li>
+                    <li>Lower interest rates than England&apos;s Plan 2 (which can reach RPI+3%)</li>
+                    <li>Similar rates to England&apos;s Plan 5 (RPI only)</li>
+                    <li>Interest rates that don&apos;t vary based on income level</li>
                   </ul>
 
                   <p>
-                    As of September 2025, the Plan 4 interest rate is 4.3%. This applies whether you're studying, have just graduated, or are a high earner.
+                    As of September 2025, the Plan 4 interest rate is 4.3%. This applies whether you&apos;re studying, have just graduated, or are a high earner.
                   </p>
 
                   <div className="mt-6">
@@ -397,7 +397,7 @@ export default function ScotlandSAASLoanDifferencesPage() {
 
                 <div className="prose max-w-none text-gray-600">
                   <p>
-                    The Student Awards Agency Scotland (SAAS) operates distinctly from Student Finance England, reflecting Scotland's different policy approach and administrative structure.
+                    The Student Awards Agency Scotland (SAAS) operates distinctly from Student Finance England, reflecting Scotland&apos;s different policy approach and administrative structure.
                   </p>
 
                   <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">SAAS Structure and Role</h3>
@@ -510,13 +510,13 @@ export default function ScotlandSAASLoanDifferencesPage() {
                       </li>
                     </ul>
                     <p className="mt-3 text-sm">
-                      Note: Scottish degrees typically take 4 years vs 3 years elsewhere, but savings from free tuition exceed the extra year's maintenance costs.
+                      Note: Scottish degrees typically take 4 years vs 3 years elsewhere, but savings from free tuition exceed the extra year&apos;s maintenance costs.
                     </p>
                   </div>
 
                   <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Lifetime Repayment Comparison</h3>
                   <p>
-                    Let's examine the lifetime financial impact for graduates earning £40,000 in different UK nations:
+                    Let&apos;s examine the lifetime financial impact for graduates earning £40,000 in different UK nations:
                   </p>
 
                   <div className="bg-blue-50 rounded-lg p-4 my-4">
@@ -540,7 +540,7 @@ export default function ScotlandSAASLoanDifferencesPage() {
                   <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">The Scotland Advantage: Key Factors</h3>
                   <ol className="list-decimal pl-6 mt-3 mb-6">
                     <li>
-                      <strong>Lower principal debt:</strong> £20,000-£25,000 vs England's £45,000+ means less interest accumulation
+                      <strong>Lower principal debt:</strong> £20,000-£25,000 vs England&apos;s £45,000+ means less interest accumulation
                     </li>
                     <li>
                       <strong>Highest threshold:</strong> £32,745 means many Scottish graduates never repay or repay very little
@@ -549,7 +549,7 @@ export default function ScotlandSAASLoanDifferencesPage() {
                       <strong>Reasonable interest:</strong> Lower of RPI or BoE base +1% prevents runaway growth
                     </li>
                     <li>
-                      <strong>30-year write-off:</strong> Shorter than England's 40 years, longer than N. Ireland's 25 years
+                      <strong>30-year write-off:</strong> Shorter than England&apos;s 40 years, longer than N. Ireland&apos;s 25 years
                     </li>
                   </ol>
 
@@ -572,12 +572,12 @@ export default function ScotlandSAASLoanDifferencesPage() {
 
                 <div className="prose max-w-none text-gray-600">
                   <p>
-                    Students from England, Wales, and Northern Ireland (collectively "Rest of UK" or RUK) face very different financial arrangements when studying in Scotland compared to Scottish students.
+                    Students from England, Wales, and Northern Ireland (collectively&quot;Rest of UK&quot; or RUK) face very different financial arrangements when studying in Scotland compared to Scottish students.
                   </p>
 
                   <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">RUK Students: Fee Structure</h3>
                   <p>
-                    Rest of UK students pay up to £9,250 per year for tuition at Scottish universities – matching England's fee cap. This creates a two-tier system at Scottish institutions:
+                    Rest of UK students pay up to £9,250 per year for tuition at Scottish universities – matching England&apos;s fee cap. This creates a two-tier system at Scottish institutions:
                   </p>
                   <ul className="list-disc pl-6 mt-3 mb-6">
                     <li>Scottish students: £0 (SAAS pays £1,820)</li>
@@ -601,13 +601,13 @@ export default function ScotlandSAASLoanDifferencesPage() {
 
                   <div className="bg-yellow-50 border-l-4 border-yellow-400 p-4 my-6 rounded">
                     <p className="font-medium">
-                      Important: RUK students do NOT apply to SAAS for tuition fee support. They follow their home nation's student finance system and repayment plan, even though studying in Scotland.
+                      Important: RUK students do NOT apply to SAAS for tuition fee support. They follow their home nation&apos;s student finance system and repayment plan, even though studying in Scotland.
                     </p>
                   </div>
 
                   <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">RUK Student Repayment Plans</h3>
                   <p>
-                    RUK students maintain their home nation's loan plan even while studying in Scotland:
+                    RUK students maintain their home nation&apos;s loan plan even while studying in Scotland:
                   </p>
                   <div className="overflow-x-auto my-6">
                     <table className="min-w-full divide-y divide-gray-200">
@@ -718,8 +718,8 @@ export default function ScotlandSAASLoanDifferencesPage() {
                         <path d="M5 3a2 2 0 00-2 2v2a2 2 0 002 2h2a2 2 0 002-2V5a2 2 0 00-2-2H5zM5 11a2 2 0 00-2 2v2a2 2 0 002 2h2a2 2 0 002-2v-2a2 2 0 00-2-2H5zM11 5a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2h-2a2 2 0 01-2-2V5zM11 13a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2h-2a2 2 0 01-2-2v-2z" />
                       </svg>
                     </div>
-                    <h3 className="text-xl font-semibold text-gray-800 mb-2">England's Student Loan System</h3>
-                    <p className="text-gray-600">Compare Scotland's Plan 4 with England's Plan 2 and Plan 5 systems</p>
+                    <h3 className="text-xl font-semibold text-gray-800 mb-2">England&apos;s Student Loan System</h3>
+                    <p className="text-gray-600">Compare Scotland&apos;s Plan 4 with England&apos;s Plan 2 and Plan 5 systems</p>
                   </Link>
 
                   <Link
@@ -736,7 +736,7 @@ export default function ScotlandSAASLoanDifferencesPage() {
                       </svg>
                     </div>
                     <h3 className="text-xl font-semibold text-gray-800 mb-2">Complete Plan 4 Guide</h3>
-                    <p className="text-gray-600">Detailed breakdown of Scotland's Plan 4 loan terms and conditions</p>
+                    <p className="text-gray-600">Detailed breakdown of Scotland&apos;s Plan 4 loan terms and conditions</p>
                   </Link>
 
                   <Link

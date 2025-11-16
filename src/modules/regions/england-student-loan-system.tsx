@@ -62,10 +62,10 @@ export default function EnglandStudentLoanSystemPage() {
               </nav>
 
               <h1 className="text-3xl md:text-4xl font-bold text-gray-800 mt-4 mb-4">
-                Complete Guide to England's Student Loan System
+                Complete Guide to England&apos;s Student Loan System
               </h1>
               <p className="text-xl text-gray-600">
-                Understanding student finance in England: Plan 2, Plan 5, and how England's system differs from the rest of the UK
+                Understanding student finance in England: Plan 2, Plan 5, and how England&apos;s system differs from the rest of the UK
               </p>
             </div>
           </section>
@@ -81,14 +81,14 @@ export default function EnglandStudentLoanSystemPage() {
               <section className="max-w-4xl mx-auto mb-12">
                 <div className="prose max-w-none text-gray-600">
                   <p className="lead text-lg">
-                    England operates the most distinctive student finance system within the UK, having undergone significant reforms that separate it from Scotland, Wales, and Northern Ireland. With the highest tuition fees in the UK and multiple loan plan iterations, understanding England's student loan landscape is essential for current and prospective students.
+                    England operates the most distinctive student finance system within the UK, having undergone significant reforms that separate it from Scotland, Wales, and Northern Ireland. With the highest tuition fees in the UK and multiple loan plan iterations, understanding England&apos;s student loan landscape is essential for current and prospective students.
                   </p>
                   <p>
-                    England's student loan system serves over 1.2 million undergraduate students annually and manages a loan portfolio exceeding £200 billion. The system has evolved from Plan 1 (pre-2012) through Plan 2 (2012-2023) to the current Plan 5 (2023+), each reflecting changing government policy on higher education funding and graduate contribution.
+                    England&apos;s student loan system serves over 1.2 million undergraduate students annually and manages a loan portfolio exceeding £200 billion. The system has evolved from Plan 1 (pre-2012) through Plan 2 (2012-2023) to the current Plan 5 (2023+), each reflecting changing government policy on higher education funding and graduate contribution.
                   </p>
                   <div className="bg-yellow-50 border-l-4 border-yellow-400 p-4 my-6 rounded">
                     <p className="font-medium">
-                      Critical Update: From August 2023, England introduced Plan 5 student loans with a lower repayment threshold (£25,000), reduced interest rates (RPI only), but a longer write-off period (40 years). This represents the most significant reform to England's student finance since 2012.
+                      Critical Update: From August 2023, England introduced Plan 5 student loans with a lower repayment threshold (£25,000), reduced interest rates (RPI only), but a longer write-off period (40 years). This represents the most significant reform to England&apos;s student finance since 2012.
                     </p>
                   </div>
                 </div>
@@ -97,20 +97,20 @@ export default function EnglandStudentLoanSystemPage() {
               {/* England Overview */}
               <section id="england-overview" className="max-w-6xl mx-auto mb-12 scroll-mt-24">
                 <h2 className="text-2xl font-semibold text-gray-800 border-b border-gray-200 pb-4 mb-6">
-                  England's Student Finance System
+                  England&apos;s Student Finance System
                 </h2>
 
                 <div className="prose max-w-none text-gray-600">
                   <p>
-                    England's student finance system is administered by Student Finance England (SFE), a division of the Student Loans Company (SLC). Unlike Scotland's predominantly grant-based system or Wales's hybrid approach, England relies heavily on income-contingent repayment loans to fund both tuition fees and maintenance costs.
+                    England&apos;s student finance system is administered by Student Finance England (SFE), a division of the Student Loans Company (SLC). Unlike Scotland&apos;s predominantly grant-based system or Wales&apos;s hybrid approach, England relies heavily on income-contingent repayment loans to fund both tuition fees and maintenance costs.
                   </p>
 
                   <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Current Tuition Fee Structure in England</h3>
                   <p>
-                    England permits universities to charge up to £9,250 per year for undergraduate courses (2024/25 academic year), the highest in the UK. This cap has remained frozen since 2017, though the Augar Review recommended reforms that eventually led to Plan 5's introduction rather than fee reductions.
+                    England permits universities to charge up to £9,250 per year for undergraduate courses (2024/25 academic year), the highest in the UK. This cap has remained frozen since 2017, though the Augar Review recommended reforms that eventually led to Plan 5&apos;s introduction rather than fee reductions.
                   </p>
 
-                  <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Who Manages England's Student Loans?</h3>
+                  <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Who Manages England&apos;s Student Loans?</h3>
                   <ul className="list-disc pl-6 mt-3 mb-6">
                     <li>
                       <strong>Student Finance England (SFE):</strong> Processes loan applications, disburses funds, and manages student accounts for English students
@@ -123,7 +123,7 @@ export default function EnglandStudentLoanSystemPage() {
                     </li>
                   </ul>
 
-                  <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">England's Unique Position in UK Student Finance</h3>
+                  <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">England&apos;s Unique Position in UK Student Finance</h3>
                   <p>
                     England stands apart from other UK nations in several key aspects:
                   </p>
@@ -183,7 +183,7 @@ export default function EnglandStudentLoanSystemPage() {
                       className="inline-block bg-blue-600 hover:bg-blue-700 text-white font-medium px-6 py-3 rounded-lg transition-colors"
                       href="/"
                     >
-                      Compare England's Plans with Our Calculators
+                      Compare England&apos;s Plans with Our Calculators
                     </Link>
                   </div>
                 </div>
@@ -192,17 +192,17 @@ export default function EnglandStudentLoanSystemPage() {
               {/* Plan Evolution */}
               <section id="plan-evolution" className="max-w-6xl mx-auto mb-12 scroll-mt-24">
                 <h2 className="text-2xl font-semibold text-gray-800 border-b border-gray-200 pb-4 mb-6">
-                  Evolution of England's Loan Plans
+                  Evolution of England&apos;s Loan Plans
                 </h2>
 
                 <div className="prose max-w-none text-gray-600">
                   <p>
-                    England's student loan system has undergone multiple transformations since 1998, each reflecting broader debates about higher education funding, graduate contribution, and taxpayer responsibility.
+                    England&apos;s student loan system has undergone multiple transformations since 1998, each reflecting broader debates about higher education funding, graduate contribution, and taxpayer responsibility.
                   </p>
 
                   <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Plan 1: The Foundation (1998-2012)</h3>
                   <p>
-                    England's original income-contingent loan system launched in 1998, replacing the older mortgage-style loans. Plan 1 in England featured:
+                    England&apos;s original income-contingent loan system launched in 1998, replacing the older mortgage-style loans. Plan 1 in England featured:
                   </p>
                   <ul className="list-disc pl-6 mt-3 mb-6">
                     <li>Maximum tuition fees of £1,000-£3,375 per year (increasing gradually)</li>
@@ -216,7 +216,7 @@ export default function EnglandStudentLoanSystemPage() {
 
                   <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">The 2012 England Reforms: Birth of Plan 2</h3>
                   <p>
-                    The most controversial higher education reform in England's history occurred in 2012, when the Coalition government:
+                    The most controversial higher education reform in England&apos;s history occurred in 2012, when the Coalition government:
                   </p>
                   <ul className="list-disc pl-6 mt-3 mb-6">
                     <li>Tripled the maximum tuition fee cap from £3,290 to £9,000 (later £9,250)</li>
@@ -228,7 +228,7 @@ export default function EnglandStudentLoanSystemPage() {
 
                   <div className="bg-blue-50 rounded-lg p-4 my-4">
                     <p className="mb-2">
-                      <strong>England's 2012 Reform Impact:</strong>
+                      <strong>England&apos;s 2012 Reform Impact:</strong>
                     </p>
                     <p>
                       Government projections estimate that approximately 73% of Plan 2 borrowers from England will not fully repay their loans before the 30-year write-off, with the taxpayer subsidy reaching approximately £11 billion annually by 2025.
@@ -237,15 +237,15 @@ export default function EnglandStudentLoanSystemPage() {
 
                   <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">The Augar Review and Path to Plan 5</h3>
                   <p>
-                    Between 2018-2022, Philip Augar's Post-18 Education and Funding Review examined England's higher education system. Key findings for England included:
+                    Between 2018-2022, Philip Augar&apos;s Post-18 Education and Funding Review examined England&apos;s higher education system. Key findings for England included:
                   </p>
                   <ul className="list-disc pl-6 mt-3 mb-6">
-                    <li>Plan 2's high interest rates disproportionately affected middle-earning graduates</li>
+                    <li>Plan 2&apos;s high interest rates disproportionately affected middle-earning graduates</li>
                     <li>Most English graduates would never fully repay their loans</li>
                     <li>The system required reform to improve fairness and taxpayer value</li>
                   </ul>
                   <p>
-                    The government's 2022 response led to Plan 5's introduction, targeting a more balanced system where an estimated 52-65% of English borrowers would fully repay their loans.
+                    The government&apos;s 2022 response led to Plan 5&apos;s introduction, targeting a more balanced system where an estimated 52-65% of English borrowers would fully repay their loans.
                   </p>
                 </div>
               </section>
@@ -253,12 +253,12 @@ export default function EnglandStudentLoanSystemPage() {
               {/* Plan 2 Details */}
               <section id="plan-2-details" className="max-w-6xl mx-auto mb-12 scroll-mt-24">
                 <h2 className="text-2xl font-semibold text-gray-800 border-b border-gray-200 pb-4 mb-6">
-                  Plan 2: England's Legacy System (2012-2023)
+                  Plan 2: England&apos;s Legacy System (2012-2023)
                 </h2>
 
                 <div className="prose max-w-none text-gray-600">
                   <p>
-                    Plan 2 remains active for English students who started undergraduate courses between September 2012 and July 2023, as well as continuing Welsh students. Over 2 million English graduates currently hold Plan 2 loans, representing approximately 80% of England's outstanding student loan balance.
+                    Plan 2 remains active for English students who started undergraduate courses between September 2012 and July 2023, as well as continuing Welsh students. Over 2 million English graduates currently hold Plan 2 loans, representing approximately 80% of England&apos;s outstanding student loan balance.
                   </p>
 
                   <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Plan 2 Repayment Mechanics in England</h3>
@@ -280,7 +280,7 @@ export default function EnglandStudentLoanSystemPage() {
                   </div>
 
                   <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">England Plan 2 Interest Rate Structure</h3>
-                  <p>Plan 2 employs England's most complex interest calculation system:</p>
+                  <p>Plan 2 employs England&apos;s most complex interest calculation system:</p>
                   <ul className="list-disc pl-6 mt-3 mb-6">
                     <li>
                       <strong>During study and until April after graduation:</strong> RPI + 3%
@@ -317,7 +317,7 @@ export default function EnglandStudentLoanSystemPage() {
                     <li>Average loan balance reaches £45,000-£50,000 for English undergraduates</li>
                     <li>High interest rates (particularly RPI+3% during study) significantly increase the principal</li>
                     <li>The £27,295 threshold means repayments only start at relatively higher earnings</li>
-                    <li>Most graduates' repayments cannot outpace interest accumulation</li>
+                    <li>Most graduates&apos; repayments cannot outpace interest accumulation</li>
                   </ul>
 
                   <div className="mt-6">
@@ -334,15 +334,15 @@ export default function EnglandStudentLoanSystemPage() {
               {/* Plan 5 Details */}
               <section id="plan-5-details" className="max-w-6xl mx-auto mb-12 scroll-mt-24">
                 <h2 className="text-2xl font-semibold text-gray-800 border-b border-gray-200 pb-4 mb-6">
-                  Plan 5: England's Current System (2023+)
+                  Plan 5: England&apos;s Current System (2023+)
                 </h2>
 
                 <div className="prose max-w-none text-gray-600">
                   <p>
-                    Plan 5 represents England's latest attempt to create a more sustainable student finance model. Launched in August 2023, Plan 5 applies exclusively to English students starting undergraduate courses from the 2023/24 academic year onward. Wales continues using Plan 2, making Plan 5 an England-only innovation within the UK.
+                    Plan 5 represents England&apos;s latest attempt to create a more sustainable student finance model. Launched in August 2023, Plan 5 applies exclusively to English students starting undergraduate courses from the 2023/24 academic year onward. Wales continues using Plan 2, making Plan 5 an England-only innovation within the UK.
                   </p>
 
-                  <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Key Features of England's Plan 5</h3>
+                  <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Key Features of England&apos;s Plan 5</h3>
                   <div className="overflow-x-auto my-6">
                     <table className="min-w-full divide-y divide-gray-200">
                       <thead className="bg-gray-50">
@@ -408,8 +408,8 @@ export default function EnglandStudentLoanSystemPage() {
                     </ul>
                   </div>
 
-                  <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Who Benefits from England's Plan 5?</h3>
-                  <p>Plan 5's structure creates distinct winners and losers among English graduates:</p>
+                  <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Who Benefits from England&apos;s Plan 5?</h3>
+                  <p>Plan 5&apos;s structure creates distinct winners and losers among English graduates:</p>
 
                   <div className="bg-green-50 border-l-4 border-green-400 p-4 my-4 rounded">
                     <p className="font-medium text-green-800 mb-2">Plan 5 Advantages for Higher Earners in England:</p>
@@ -430,9 +430,9 @@ export default function EnglandStudentLoanSystemPage() {
                     </ul>
                   </div>
 
-                  <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">England's Plan 5 Reform Objectives</h3>
+                  <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">England&apos;s Plan 5 Reform Objectives</h3>
                   <p>
-                    The Department for Education designed Plan 5 to address several issues with England's Plan 2 system:
+                    The Department for Education designed Plan 5 to address several issues with England&apos;s Plan 2 system:
                   </p>
                   <ul className="list-disc pl-6 mt-3 mb-6">
                     <li>Reduce the Resource Accounting and Budgeting (RAB) charge from 53% to 30%</li>
@@ -442,7 +442,7 @@ export default function EnglandStudentLoanSystemPage() {
                   </ul>
 
                   <p>
-                    According to the <a href="https://www.gov.uk/government/publications/student-loans-a-guide-to-terms-and-conditions/student-loans-a-guide-to-terms-and-conditions-2023-to-2024" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">official government guidance on Plan 5 loans</a>, the reforms aim to ensure graduates "will not repay more than they originally borrowed over the lifetime of their loans, when adjusted for inflation" – though this primarily benefits higher earners who reach full repayment.
+                    According to the <a href="https://www.gov.uk/government/publications/student-loans-a-guide-to-terms-and-conditions/student-loans-a-guide-to-terms-and-conditions-2023-to-2024" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">official government guidance on Plan 5 loans</a>, the reforms aim to ensure graduates &quot;will not repay more than they originally borrowed over the lifetime of their loans, when adjusted for inflation&quot; – though this primarily benefits higher earners who reach full repayment.
                   </p>
 
                   <div className="mt-6">
@@ -464,7 +464,7 @@ export default function EnglandStudentLoanSystemPage() {
 
                 <div className="prose max-w-none text-gray-600">
                   <p>
-                    England's student finance system has diverged significantly from Scotland, Wales, and Northern Ireland. Understanding these regional differences is crucial for UK students choosing where to study or graduates considering relocation.
+                    England&apos;s student finance system has diverged significantly from Scotland, Wales, and Northern Ireland. Understanding these regional differences is crucial for UK students choosing where to study or graduates considering relocation.
                   </p>
 
                   <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">England vs Scotland: Contrasting Philosophies</h3>
@@ -479,16 +479,16 @@ export default function EnglandStudentLoanSystemPage() {
                       <strong>Loan balances:</strong> English graduates average £45,000-£50,000 debt; Scottish graduates typically borrow only for maintenance (£20,000-£25,000)
                     </li>
                     <li>
-                      <strong>Repayment burden:</strong> England's Plan 5 graduates on £30,000 pay £450/year; Scottish Plan 4 graduates pay £207/year
+                      <strong>Repayment burden:</strong> England&apos;s Plan 5 graduates on £30,000 pay £450/year; Scottish Plan 4 graduates pay £207/year
                     </li>
                     <li>
-                      <strong>Write-off period:</strong> England's 40 years (Plan 5) vs Scotland's 30 years
+                      <strong>Write-off period:</strong> England&apos;s 40 years (Plan 5) vs Scotland&apos;s 30 years
                     </li>
                   </ul>
 
                   <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">England vs Wales: Diverging Policy Since 2023</h3>
                   <p>
-                    Wales previously followed England's student finance model closely, but divergence began in 2023:
+                    Wales previously followed England&apos;s student finance model closely, but divergence began in 2023:
                   </p>
                   <ul className="list-disc pl-6 mt-3 mb-6">
                     <li>
@@ -511,7 +511,7 @@ export default function EnglandStudentLoanSystemPage() {
                   </p>
                   <ul className="list-disc pl-6 mt-3 mb-6">
                     <li>
-                      <strong>Tuition fees:</strong> Northern Ireland charges up to £4,855 (nearly half of England's £9,250)
+                      <strong>Tuition fees:</strong> Northern Ireland charges up to £4,855 (nearly half of England&apos;s £9,250)
                     </li>
                     <li>
                       <strong>Loan plan:</strong> Northern Ireland uses Plan 1; England uses Plan 5
@@ -545,17 +545,17 @@ export default function EnglandStudentLoanSystemPage() {
               {/* England Future */}
               <section id="england-future" className="max-w-6xl mx-auto mb-12 scroll-mt-24">
                 <h2 className="text-2xl font-semibold text-gray-800 border-b border-gray-200 pb-4 mb-6">
-                  Future of England's Student Loan System
+                  Future of England&apos;s Student Loan System
                 </h2>
 
                 <div className="prose max-w-none text-gray-600">
                   <p>
-                    England's student finance landscape continues to evolve. Several factors suggest further reforms may be forthcoming:
+                    England&apos;s student finance landscape continues to evolve. Several factors suggest further reforms may be forthcoming:
                   </p>
 
                   <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Tuition Fee Freeze in England</h3>
                   <p>
-                    England's £9,250 tuition fee cap has remained frozen since 2017. Adjusted for inflation, this represents a significant real-terms reduction. Universities in England are lobbying for increases, while student groups advocate for reductions. The government faces pressure to:
+                    England&apos;s £9,250 tuition fee cap has remained frozen since 2017. Adjusted for inflation, this represents a significant real-terms reduction. Universities in England are lobbying for increases, while student groups advocate for reductions. The government faces pressure to:
                   </p>
                   <ul className="list-disc pl-6 mt-3 mb-6">
                     <li>Increase fees to maintain university funding</li>
@@ -566,18 +566,18 @@ export default function EnglandStudentLoanSystemPage() {
 
                   <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Plan 5 Performance Monitoring</h3>
                   <p>
-                    The Department for Education is closely monitoring Plan 5's early performance in England:
+                    The Department for Education is closely monitoring Plan 5&apos;s early performance in England:
                   </p>
                   <ul className="list-disc pl-6 mt-3 mb-6">
                     <li>Whether the 52-65% full repayment target is achievable</li>
                     <li>Impact on university applications and student behavior</li>
                     <li>Effects on students from lower-income backgrounds</li>
-                    <li>Comparison with Scotland's free tuition model outcomes</li>
+                    <li>Comparison with Scotland&apos;s free tuition model outcomes</li>
                   </ul>
 
-                  <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Potential Future Changes to England's System</h3>
+                  <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Potential Future Changes to England&apos;s System</h3>
                   <p>
-                    Policy experts identify several possible directions for England's student finance:
+                    Policy experts identify several possible directions for England&apos;s student finance:
                   </p>
                   <ul className="list-disc pl-6 mt-3 mb-6">
                     <li>
@@ -594,20 +594,20 @@ export default function EnglandStudentLoanSystemPage() {
                     </li>
                   </ul>
 
-                  <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">England's Student Loan Sustainability</h3>
+                  <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">England&apos;s Student Loan Sustainability</h3>
                   <p>
-                    England's student loan book now exceeds £200 billion, with government forecasts projecting £500+ billion by the 2040s. This raises questions about:
+                    England&apos;s student loan book now exceeds £200 billion, with government forecasts projecting £500+ billion by the 2040s. This raises questions about:
                   </p>
                   <ul className="list-disc pl-6 mt-3 mb-6">
                     <li>Long-term fiscal sustainability for England and the UK</li>
                     <li>Intergenerational fairness between Plan 1, Plan 2, and Plan 5 borrowers</li>
                     <li>Political sustainability of the current system</li>
-                    <li>Impact on England's competitiveness in attracting international students</li>
+                    <li>Impact on England&apos;s competitiveness in attracting international students</li>
                   </ul>
 
                   <div className="bg-yellow-50 border-l-4 border-yellow-400 p-4 my-6 rounded">
                     <p className="font-medium">
-                      England's Student Finance Outlook: The next comprehensive review of England's student loan system is expected around 2027-2028, with Plan 5 performance data informing potential adjustments. Students entering higher education in England should monitor policy developments, as retrospective changes to loan terms remain controversial but not impossible.
+                      England&apos;s Student Finance Outlook: The next comprehensive review of England&apos;s student loan system is expected around 2027-2028, with Plan 5 performance data informing potential adjustments. Students entering higher education in England should monitor policy developments, as retrospective changes to loan terms remain controversial but not impossible.
                     </p>
                   </div>
                 </div>
@@ -618,7 +618,7 @@ export default function EnglandStudentLoanSystemPage() {
                 <div className="text-center space-y-6">
                   <h2 className="text-2xl md:text-3xl font-bold">Calculate Your England Student Loan Repayments</h2>
                   <p className="text-lg text-blue-100">
-                    Use our specialized calculators for England's Plan 2 and Plan 5 loan systems
+                    Use our specialized calculators for England&apos;s Plan 2 and Plan 5 loan systems
                   </p>
                   <div className="flex flex-wrap justify-center gap-4">
                     <Link
@@ -656,7 +656,7 @@ export default function EnglandStudentLoanSystemPage() {
                       </svg>
                     </div>
                     <h3 className="text-xl font-semibold text-gray-800 mb-2">Plan 2 vs Plan 5: England Comparison</h3>
-                    <p className="text-gray-600">Detailed comparison of England's two current student loan plans</p>
+                    <p className="text-gray-600">Detailed comparison of England&apos;s two current student loan plans</p>
                   </Link>
 
                   <Link

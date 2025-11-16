@@ -65,7 +65,7 @@ export default function WalesStudentFinancePage() {
                 Wales Student Finance: Grants, Loans & £1,500 Cancellation Explained
               </h1>
               <p className="text-xl text-gray-600">
-                Understanding Wales's unique student finance system: maintenance grants, Plan 2 loans, and the partial cancellation scheme
+                Understanding Wales&apos;s unique student finance system: maintenance grants, Plan 2 loans, and the partial cancellation scheme
               </p>
             </div>
           </section>
@@ -88,7 +88,7 @@ export default function WalesStudentFinancePage() {
                   </p>
                   <div className="bg-yellow-50 border-l-4 border-yellow-400 p-4 my-6 rounded">
                     <p className="font-medium">
-                      Wales's Unique Advantage: Every Welsh student gets at least £1,000 in grants (free money), plus up to £1,500 cancelled from their loan balance after making their first repayment. This combination significantly reduces lifetime debt compared to England.
+                      Wales&apos;s Unique Advantage: Every Welsh student gets at least £1,000 in grants (free money), plus up to £1,500 cancelled from their loan balance after making their first repayment. This combination significantly reduces lifetime debt compared to England.
                     </p>
                   </div>
                 </div>
@@ -102,7 +102,7 @@ export default function WalesStudentFinancePage() {
 
                 <div className="prose max-w-none text-gray-600">
                   <p>
-                    Wales's student finance system occupies a middle ground between Scotland's free tuition model and England's high-fee, high-loan system. Welsh students pay tuition fees (up to £9,000 for 2025/26), but receive substantial grant support for living costs and benefit from the partial cancellation scheme.
+                    Wales&apos;s student finance system occupies a middle ground between Scotland&apos;s free tuition model and England&apos;s high-fee, high-loan system. Welsh students pay tuition fees (up to £9,000 for 2025/26), but receive substantial grant support for living costs and benefit from the partial cancellation scheme.
                   </p>
 
                   <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Wales Student Finance Core Features</h3>
@@ -181,7 +181,7 @@ export default function WalesStudentFinancePage() {
                   </div>
 
                   <div className="bg-blue-50 rounded-lg p-4 my-4">
-                    <p className="font-medium mb-2">Understanding Wales's "Equal Support" Model:</p>
+                    <p className="font-medium mb-2">Understanding Wales&apos;s &quot;Equal Support&quot; Model:</p>
                     <p>
                       A Welsh student from a household earning £15,000 and a student from a household earning £40,000 both receive £12,345 total for living away from home. The difference: the lower-income student gets £8,100 as grant + £4,245 as loan, while the higher-income student gets £1,000 grant + £11,345 loan. Same total support, different grant/loan split.
                     </p>
@@ -206,7 +206,7 @@ export default function WalesStudentFinancePage() {
 
                 <div className="prose max-w-none text-gray-600">
                   <p>
-                    The Welsh Government Learning Grant (WGLG) is the flagship of Wales's student finance system, providing direct, non-repayable support that significantly reduces debt burden for Welsh students.
+                    The Welsh Government Learning Grant (WGLG) is the flagship of Wales&apos;s student finance system, providing direct, non-repayable support that significantly reduces debt burden for Welsh students.
                   </p>
 
                   <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Who Gets Welsh Maintenance Grants?</h3>
@@ -268,9 +268,9 @@ export default function WalesStudentFinancePage() {
                     </ul>
                   </div>
 
-                  <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Why Wales's Grant System Matters</h3>
+                  <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Why Wales&apos;s Grant System Matters</h3>
                   <p>
-                    Unlike England where all maintenance support is loans, Wales's grants provide genuine free money:
+                    Unlike England where all maintenance support is loans, Wales&apos;s grants provide genuine free money:
                   </p>
                   <ul className="list-disc pl-6 mt-3 mb-6">
                     <li>Grants never need to be repaid</li>
@@ -283,7 +283,7 @@ export default function WalesStudentFinancePage() {
                   <div className="bg-green-50 border-l-4 border-green-400 p-4 my-6 rounded">
                     <p className="font-medium text-green-800 mb-2">Wales vs England Grant Comparison:</p>
                     <p className="text-green-900">
-                      A Welsh student from a household earning £18,000 receives £8,100 in grants over the year. An English student from the same household receives £0 in grants - all maintenance support is loans. Over a 3-year degree, that's £24,300 the Welsh student never has to repay.
+                      A Welsh student from a household earning £18,000 receives £8,100 in grants over the year. An English student from the same household receives £0 in grants - all maintenance support is loans. Over a 3-year degree, that&apos;s £24,300 the Welsh student never has to repay.
                     </p>
                   </div>
 
@@ -291,16 +291,16 @@ export default function WalesStudentFinancePage() {
                   <p>Beyond the standard maintenance grant, Welsh students can apply for:</p>
                   <ul className="list-disc pl-6 mt-3 mb-6">
                     <li>
-                      <strong>Parents' Learning Allowance:</strong> Up to £1,915 for students with dependent children
+                      <strong>Parents&apos; Learning Allowance:</strong> Up to £1,915 for students with dependent children
                     </li>
                     <li>
                       <strong>Childcare Grant:</strong> Up to £9,120 per year for registered childcare costs
                     </li>
                     <li>
-                      <strong>Adult Dependants' Grant:</strong> Up to £3,407 if you financially support an adult
+                      <strong>Adult Dependants&apos; Grant:</strong> Up to £3,407 if you financially support an adult
                     </li>
                     <li>
-                      <strong>Disabled Students' Allowances:</strong> Up to £34,000 for disability-related study costs
+                      <strong>Disabled Students&apos; Allowances:</strong> Up to £34,000 for disability-related study costs
                     </li>
                     <li>
                       <strong>Special Support Grant:</strong> Up to £5,161 for specific circumstances (single parents, over 60, etc.)
@@ -317,7 +317,7 @@ export default function WalesStudentFinancePage() {
 
                 <div className="prose max-w-none text-gray-600">
                   <p>
-                    Welsh students repay their loans under Plan 2 terms - the same system as England's legacy borrowers (2012-2023 starters). This means Wales continues using Plan 2 while England has moved to Plan 5 for new students from 2023 onward.
+                    Welsh students repay their loans under Plan 2 terms - the same system as England&apos;s legacy borrowers (2012-2023 starters). This means Wales continues using Plan 2 while England has moved to Plan 5 for new students from 2023 onward.
                   </p>
 
                   <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Wales Plan 2 Repayment Parameters</h3>
@@ -367,7 +367,7 @@ export default function WalesStudentFinancePage() {
                   </div>
 
                   <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Plan 2 Interest Rate Structure in Wales</h3>
-                  <p>Wales uses Plan 2's progressive interest rate system:</p>
+                  <p>Wales uses Plan 2&apos;s progressive interest rate system:</p>
                   <ul className="list-disc pl-6 mt-3 mb-6">
                     <li>
                       <strong>While studying:</strong> RPI + 3% on outstanding balance
@@ -387,14 +387,14 @@ export default function WalesStudentFinancePage() {
                     As of September 2025, RPI is 3.2%, meaning Plan 2 rates range from 3.2% to 6.2% depending on income.
                   </p>
 
-                  <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Why Wales Hasn't Adopted Plan 5</h3>
+                  <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Why Wales Hasn&apos;t Adopted Plan 5</h3>
                   <p>
                     While England introduced Plan 5 in August 2023 with lower interest but longer write-off (40 years) and lower threshold (£25,000), Wales has maintained Plan 2. The Welsh Government is reviewing whether to adopt Plan 5 or continue with Plan 2, considering:
                   </p>
                   <ul className="list-disc pl-6 mt-3 mb-6">
-                    <li>Plan 2's higher threshold (£27,295 vs £25,000) benefits lower-middle earners</li>
-                    <li>Plan 2's 30-year write-off is 10 years shorter than Plan 5's 40 years</li>
-                    <li>Wales's grant system already provides better support than England</li>
+                    <li>Plan 2&apos;s higher threshold (£27,295 vs £25,000) benefits lower-middle earners</li>
+                    <li>Plan 2&apos;s 30-year write-off is 10 years shorter than Plan 5&apos;s 40 years</li>
+                    <li>Wales&apos;s grant system already provides better support than England</li>
                     <li>Political considerations about maintaining distinct Welsh policy</li>
                   </ul>
 
@@ -417,7 +417,7 @@ export default function WalesStudentFinancePage() {
 
                 <div className="prose max-w-none text-gray-600">
                   <p>
-                    Wales's partial cancellation scheme is a unique benefit unavailable to students in England, Scotland, or Northern Ireland. The Welsh Government cancels up to £1,500 from your first maintenance loan balance when you start making repayments - effectively free money that reduces your lifetime debt.
+                    Wales&apos;s partial cancellation scheme is a unique benefit unavailable to students in England, Scotland, or Northern Ireland. The Welsh Government cancels up to £1,500 from your first maintenance loan balance when you start making repayments - effectively free money that reduces your lifetime debt.
                   </p>
 
                   <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">How the £1,500 Cancellation Works</h3>
@@ -481,29 +481,29 @@ export default function WalesStudentFinancePage() {
                   <p>Strategic tips for getting the full £1,500 benefit:</p>
                   <ul className="list-disc pl-6 mt-3 mb-6">
                     <li>
-                      <strong>Wait until you've borrowed £1,500+:</strong> If you make a £5 voluntary repayment after borrowing only £500, you'll only get £495 cancelled (not £1,500)
+                      <strong>Wait until you&apos;ve borrowed £1,500+:</strong> If you make a £5 voluntary repayment after borrowing only £500, you&apos;ll only get £495 cancelled (not £1,500)
                     </li>
                     <li>
                       <strong>Make a voluntary repayment early:</strong> You can trigger the cancellation with just £5 payment as soon as you graduate
                     </li>
                     <li>
-                      <strong>Don't pay off your entire first year loan in one go:</strong> If you pay off the full balance before triggering cancellation, you get £0 cancelled
+                      <strong>Don&apos;t pay off your entire first year loan in one go:</strong> If you pay off the full balance before triggering cancellation, you get £0 cancelled
                     </li>
                     <li>
-                      <strong>Applies even if you're not earning:</strong> You don't need to be making PAYE repayments - a £5 voluntary payment works
+                      <strong>Applies even if you&apos;re not earning:</strong> You don&apos;t need to be making PAYE repayments - a £5 voluntary payment works
                     </li>
                   </ul>
 
                   <div className="bg-green-50 border-l-4 border-green-400 p-4 my-6 rounded">
                     <p className="font-medium text-green-800 mb-2">Smart Strategy:</p>
                     <p className="text-green-900">
-                      Once you've received at least £1,500 in maintenance loan payments (typically after your first year), make a £5 voluntary repayment online. The Welsh Government will immediately cancel £1,500 from your balance. This simple action saves you £1,500 plus all the interest that would have accumulated on that amount over 30 years.
+                      Once you&apos;ve received at least £1,500 in maintenance loan payments (typically after your first year), make a £5 voluntary repayment online. The Welsh Government will immediately cancel £1,500 from your balance. This simple action saves you £1,500 plus all the interest that would have accumulated on that amount over 30 years.
                     </p>
                   </div>
 
                   <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Scheme Status and Future</h3>
                   <p>
-                    The partial cancellation scheme has been renewed annually since 2010/11 and is currently confirmed for 2024/25 academic year. While continuation for 2025/26 is "pending confirmation" from the Welsh Government, the scheme has been consistently renewed every year since its introduction.
+                    The partial cancellation scheme has been renewed annually since 2010/11 and is currently confirmed for 2024/25 academic year. While continuation for 2025/26 is &quot;pending confirmation&quot; from the Welsh Government, the scheme has been consistently renewed every year since its introduction.
                   </p>
                 </div>
               </section>
@@ -516,7 +516,7 @@ export default function WalesStudentFinancePage() {
 
                 <div className="prose max-w-none text-gray-600">
                   <p>
-                    Wales's hybrid grant-loan system creates a distinctive position between Scotland's free tuition and England's high-debt model.
+                    Wales&apos;s hybrid grant-loan system creates a distinctive position between Scotland&apos;s free tuition and England&apos;s high-debt model.
                   </p>
 
                   <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Total Debt Comparison (3-Year Degree)</h3>
@@ -598,20 +598,20 @@ export default function WalesStudentFinancePage() {
                     </table>
                   </div>
 
-                  <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Wales's Advantages</h3>
+                  <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Wales&apos;s Advantages</h3>
                   <ul className="list-disc pl-6 mt-3 mb-6">
                     <li>Universal £1,000 minimum grant (England: £0)</li>
                     <li>Up to £8,100 grants for low-income students (England: £0)</li>
                     <li>£1,500 partial cancellation scheme (unique to Wales)</li>
-                    <li>Higher repayment threshold than England's Plan 5 (£27,295 vs £25,000)</li>
-                    <li>Shorter write-off than England's Plan 5 (30 vs 40 years)</li>
+                    <li>Higher repayment threshold than England&apos;s Plan 5 (£27,295 vs £25,000)</li>
+                    <li>Shorter write-off than England&apos;s Plan 5 (30 vs 40 years)</li>
                   </ul>
 
-                  <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Wales's Disadvantages</h3>
+                  <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Wales&apos;s Disadvantages</h3>
                   <ul className="list-disc pl-6 mt-3 mb-6">
                     <li>Still pay tuition fees (unlike Scotland)</li>
-                    <li>Higher debt than Scotland's maintenance-only model</li>
-                    <li>Plan 2's variable interest (RPI to RPI+3%) means high earners pay more interest than Scotland's Plan 4</li>
+                    <li>Higher debt than Scotland&apos;s maintenance-only model</li>
+                    <li>Plan 2&apos;s variable interest (RPI to RPI+3%) means high earners pay more interest than Scotland&apos;s Plan 4</li>
                     <li>Grants taper off quickly for middle-income families</li>
                   </ul>
 
@@ -741,7 +741,7 @@ export default function WalesStudentFinancePage() {
                       </svg>
                     </div>
                     <h3 className="text-xl font-semibold text-gray-800 mb-2">Compare Wales vs England</h3>
-                    <p className="text-gray-600">See how Wales's grants and Plan 2 compare to England's Plan 5 system</p>
+                    <p className="text-gray-600">See how Wales&apos;s grants and Plan 2 compare to England&apos;s Plan 5 system</p>
                   </Link>
 
                   <Link

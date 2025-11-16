@@ -65,7 +65,7 @@ export default function NorthernIrelandLoansPage() {
                 Northern Ireland Student Loans: Lowest Fees, Plan 1 & Fastest Write-Off
               </h1>
               <p className="text-xl text-gray-600">
-                Understanding Northern Ireland's distinctive student finance system with the UK's lowest tuition fees and shortest repayment period
+                Understanding Northern Ireland&apos;s distinctive student finance system with the UK&apos;s lowest tuition fees and shortest repayment period
               </p>
             </div>
           </section>
@@ -81,14 +81,14 @@ export default function NorthernIrelandLoansPage() {
               <section className="max-w-4xl mx-auto mb-12">
                 <div className="prose max-w-none text-gray-600">
                   <p className="lead text-lg">
-                    Northern Ireland operates a unique student finance system featuring the UK's lowest tuition fees for home students (£4,855), Plan 1 repayment terms, and the fastest loan write-off period at just 25 years. This combination makes Northern Irish graduates potentially better off than their counterparts in England, Wales, or Scotland, despite receiving lower maintenance support.
+                    Northern Ireland operates a unique student finance system featuring the UK&apos;s lowest tuition fees for home students (£4,855), Plan 1 repayment terms, and the fastest loan write-off period at just 25 years. This combination makes Northern Irish graduates potentially better off than their counterparts in England, Wales, or Scotland, despite receiving lower maintenance support.
                   </p>
                   <p>
                     Administered by Student Finance Northern Ireland (SFNI), part of the Student Loans Company, the Northern Irish system provides maintenance grants up to £3,475 for lower-income households and maintains the original Plan 1 loan structure that England and Wales abandoned in 2012. With tuition fees approximately half those charged in England and a 25-year write-off, Northern Irish students face significantly lower lifetime debt burdens.
                   </p>
                   <div className="bg-yellow-50 border-l-4 border-yellow-400 p-4 my-6 rounded">
                     <p className="font-medium">
-                      Northern Ireland's Key Advantages: Tuition fees of just £4,855 (vs England's £9,250), Plan 1's 25-year write-off (shortest in UK), and maintenance grants up to £3,475 create the lowest total debt burden outside of Scotland.
+                      Northern Ireland&apos;s Key Advantages: Tuition fees of just £4,855 (vs England&apos;s £9,250), Plan 1&apos;s 25-year write-off (shortest in UK), and maintenance grants up to £3,475 create the lowest total debt burden outside of Scotland.
                     </p>
                   </div>
                 </div>
@@ -102,10 +102,10 @@ export default function NorthernIrelandLoansPage() {
 
                 <div className="prose max-w-none text-gray-600">
                   <p>
-                    Northern Ireland's student finance system has remained relatively stable since 1998, maintaining Plan 1 loan terms and modest tuition fees while the rest of the UK underwent significant reforms. This stability has created unique advantages for Northern Irish students.
+                    Northern Ireland&apos;s student finance system has remained relatively stable since 1998, maintaining Plan 1 loan terms and modest tuition fees while the rest of the UK underwent significant reforms. This stability has created unique advantages for Northern Irish students.
                   </p>
 
-                  <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Northern Ireland's Distinctive Features</h3>
+                  <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Northern Ireland&apos;s Distinctive Features</h3>
                   <ul className="list-disc pl-6 mt-3 mb-6">
                     <li>
                       <strong>Lowest UK tuition fees:</strong> £4,855 for Northern Irish students studying in NI (2025/26)
@@ -186,9 +186,9 @@ export default function NorthernIrelandLoansPage() {
                   </div>
 
                   <div className="bg-blue-50 rounded-lg p-4 my-4">
-                    <p className="font-medium mb-2">Northern Ireland's Lower Maintenance Support:</p>
+                    <p className="font-medium mb-2">Northern Ireland&apos;s Lower Maintenance Support:</p>
                     <p>
-                      NI students receive less maintenance support than peers from other UK nations. An NI student studying in Manchester receives max £8,132/year while an English student gets £10,544, Welsh gets £12,345, and Scottish gets £11,400. This "maintenance gap" is a significant disadvantage of the NI system.
+                      NI students receive less maintenance support than peers from other UK nations. An NI student studying in Manchester receives max £8,132/year while an English student gets £10,544, Welsh gets £12,345, and Scottish gets £11,400. This &quot;maintenance gap&quot; is a significant disadvantage of the NI system.
                     </p>
                   </div>
 
@@ -211,12 +211,12 @@ export default function NorthernIrelandLoansPage() {
 
                 <div className="prose max-w-none text-gray-600">
                   <p>
-                    Northern Ireland's £4,855 tuition fee cap for home students represents less than half what England charges (£9,250), making NI the most affordable UK nation for tuition fees after Scotland's free tuition.
+                    Northern Ireland&apos;s £4,855 tuition fee cap for home students represents less than half what England charges (£9,250), making NI the most affordable UK nation for tuition fees after Scotland&apos;s free tuition.
                   </p>
 
                   <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Why Are NI Tuition Fees So Low?</h3>
                   <p>
-                    Northern Ireland chose not to follow England's 2012 tuition fee reforms that tripled fees from £3,000 to £9,000. Key reasons include:
+                    Northern Ireland chose not to follow England&apos;s 2012 tuition fee reforms that tripled fees from £3,000 to £9,000. Key reasons include:
                   </p>
                   <ul className="list-disc pl-6 mt-3 mb-6">
                     <li>Political consensus to maintain accessible higher education</li>
@@ -225,7 +225,7 @@ export default function NorthernIrelandLoansPage() {
                     <li>Devolved education policy allowing distinct approach</li>
                   </ul>
 
-                  <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">The "NI Discount": Fee Comparison</h3>
+                  <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">The &quot;NI Discount&quot;: Fee Comparison</h3>
                   <div className="bg-gray-50 rounded-lg p-4 my-4">
                     <p className="font-medium mb-3">3-Year Undergraduate Degree - Tuition Fees Only:</p>
                     <ul className="list-disc pl-6 space-y-2">
@@ -257,7 +257,7 @@ export default function NorthernIrelandLoansPage() {
                   <div className="bg-orange-50 border-l-4 border-orange-400 p-4 my-6 rounded">
                     <p className="font-medium text-orange-800 mb-2">The NI Fee Paradox:</p>
                     <p className="text-orange-900">
-                      NI students from Belfast pay £4,855/year at Queen's University Belfast, but would pay £9,535/year at University of Edinburgh. English students from London pay £9,250/year at Queen's or £9,250/year at Edinburgh. This creates strong incentives for NI students to stay home.
+                      NI students from Belfast pay £4,855/year at Queen&apos;s University Belfast, but would pay £9,535/year at University of Edinburgh. English students from London pay £9,250/year at Queen&apos;s or £9,250/year at Edinburgh. This creates strong incentives for NI students to stay home.
                     </p>
                   </div>
 
@@ -332,9 +332,9 @@ export default function NorthernIrelandLoansPage() {
                     </ul>
                   </div>
 
-                  <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Plan 1's 25-Year Write-Off Advantage</h3>
+                  <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Plan 1&apos;s 25-Year Write-Off Advantage</h3>
                   <p>
-                    Northern Ireland's 25-year write-off period is the shortest in the UK:
+                    Northern Ireland&apos;s 25-year write-off period is the shortest in the UK:
                   </p>
                   <ul className="list-disc pl-6 mt-3 mb-6">
                     <li>
@@ -352,12 +352,12 @@ export default function NorthernIrelandLoansPage() {
                   </ul>
 
                   <p>
-                    For NI graduates who don't fully repay their loans, this 5-15 year shorter repayment window compared to other nations means thousands of pounds saved. A graduate making £30,000 saves £5,312 over the shortened repayment period compared to Scotland's 30 years.
+                    For NI graduates who don&apos;t fully repay their loans, this 5-15 year shorter repayment window compared to other nations means thousands of pounds saved. A graduate making £30,000 saves £5,312 over the shortened repayment period compared to Scotland&apos;s 30 years.
                   </p>
 
                   <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">NI Plan 1 Interest Rates</h3>
                   <p>
-                    Northern Ireland uses the same interest calculation as Scotland's Plan 4: the lower of either RPI or Bank of England base rate plus 1%. As of September 2025, this results in:
+                    Northern Ireland uses the same interest calculation as Scotland&apos;s Plan 4: the lower of either RPI or Bank of England base rate plus 1%. As of September 2025, this results in:
                   </p>
                   <ul className="list-disc pl-6 mt-3 mb-6">
                     <li>Current RPI: 3.2%</li>
@@ -366,7 +366,7 @@ export default function NorthernIrelandLoansPage() {
                   </ul>
 
                   <p>
-                    This is significantly lower than England's Plan 2 maximum of RPI+3% (6.2%) for high earners, benefiting NI graduates who take longer to repay.
+                    This is significantly lower than England&apos;s Plan 2 maximum of RPI+3% (6.2%) for high earners, benefiting NI graduates who take longer to repay.
                   </p>
 
                   <div className="mt-6">
@@ -388,7 +388,7 @@ export default function NorthernIrelandLoansPage() {
 
                 <div className="prose max-w-none text-gray-600">
                   <p>
-                    Northern Ireland provides maintenance grants to students from lower and middle-income households, reducing the amount of repayable debt they carry. Unlike Wales's universal minimum grant, NI grants are only available to households earning under £41,065.
+                    Northern Ireland provides maintenance grants to students from lower and middle-income households, reducing the amount of repayable debt they carry. Unlike Wales&apos;s universal minimum grant, NI grants are only available to households earning under £41,065.
                   </p>
 
                   <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">NI Maintenance Grant Eligibility</h3>
@@ -458,13 +458,13 @@ export default function NorthernIrelandLoansPage() {
                   <p>Beyond standard grants and loans, NI students can access:</p>
                   <ul className="list-disc pl-6 mt-3 mb-6">
                     <li>
-                      <strong>Parents' Learning Allowance:</strong> Extra support for students with dependent children
+                      <strong>Parents&apos; Learning Allowance:</strong> Extra support for students with dependent children
                     </li>
                     <li>
                       <strong>Childcare Grant:</strong> Help with registered childcare costs
                     </li>
                     <li>
-                      <strong>Disabled Students' Allowances:</strong> Non-repayable support for disability-related study costs
+                      <strong>Disabled Students&apos; Allowances:</strong> Non-repayable support for disability-related study costs
                     </li>
                     <li>
                       <strong>Travel costs:</strong> For medical/dental students on clinical placements
@@ -481,7 +481,7 @@ export default function NorthernIrelandLoansPage() {
 
                 <div className="prose max-w-none text-gray-600">
                   <p>
-                    Northern Ireland's combination of low tuition fees, Plan 1 repayment terms, and 25-year write-off creates unique trade-offs compared to other UK nations.
+                    Northern Ireland&apos;s combination of low tuition fees, Plan 1 repayment terms, and 25-year write-off creates unique trade-offs compared to other UK nations.
                   </p>
 
                   <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Total Debt Comparison (3-Year Degree, Studying at Home)</h3>
@@ -550,16 +550,16 @@ export default function NorthernIrelandLoansPage() {
                     </table>
                   </div>
 
-                  <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Northern Ireland's Advantages</h3>
+                  <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Northern Ireland&apos;s Advantages</h3>
                   <ul className="list-disc pl-6 mt-3 mb-6">
-                    <li>Lowest tuition fees in UK (after Scotland's free tuition): £4,855 vs England's £9,250</li>
-                    <li>Shortest write-off period: 25 years vs England's 40 years</li>
-                    <li>Lower interest rates than England's Plan 2 maximum</li>
+                    <li>Lowest tuition fees in UK (after Scotland&apos;s free tuition): £4,855 vs England&apos;s £9,250</li>
+                    <li>Shortest write-off period: 25 years vs England&apos;s 40 years</li>
+                    <li>Lower interest rates than England&apos;s Plan 2 maximum</li>
                     <li>Maintenance grants reduce repayable debt for lower-income students</li>
                     <li>Significantly lower total debt than England or Wales</li>
                   </ul>
 
-                  <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Northern Ireland's Disadvantages</h3>
+                  <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Northern Ireland&apos;s Disadvantages</h3>
                   <ul className="list-disc pl-6 mt-3 mb-6">
                     <li>Lower maintenance support than other UK nations (£6,776 max vs Wales £12,345)</li>
                     <li>No universal minimum grant (Wales gives everyone £1,000)</li>
@@ -592,7 +592,7 @@ export default function NorthernIrelandLoansPage() {
 
                   <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">ROI Student Contribution Loan</h3>
                   <p>
-                    In the Republic of Ireland, students don't pay tuition fees but instead pay a "student contribution charge." For 2025/26, this is €3,000 (approximately £2,570).
+                    In the Republic of Ireland, students don&apos;t pay tuition fees but instead pay a &quot;student contribution charge.&quot; For 2025/26, this is €3,000 (approximately £2,570).
                   </p>
 
                   <div className="bg-gray-50 rounded-lg p-4 my-4">
@@ -615,7 +615,7 @@ export default function NorthernIrelandLoansPage() {
 
                   <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Why NI Students Choose ROI</h3>
                   <ul className="list-disc pl-6 mt-3 mb-6">
-                    <li>Lower "fees" (€3,000 vs £4,855 in NI or £9,535 in GB)</li>
+                    <li>Lower &quot;fees&quot; (€3,000 vs £4,855 in NI or £9,535 in GB)</li>
                     <li>Geographic proximity (Belfast to Dublin: 2 hours)</li>
                     <li>Cultural and historical connections</li>
                     <li>Access to EU universities post-Brexit (transitional arrangements)</li>
@@ -689,7 +689,7 @@ export default function NorthernIrelandLoansPage() {
                       </svg>
                     </div>
                     <h3 className="text-xl font-semibold text-gray-800 mb-2">Compare NI vs England</h3>
-                    <p className="text-gray-600">See how NI's low fees and Plan 1 compare to England's higher-cost system</p>
+                    <p className="text-gray-600">See how NI&apos;s low fees and Plan 1 compare to England&apos;s higher-cost system</p>
                   </Link>
 
                   <Link
@@ -723,8 +723,8 @@ export default function NorthernIrelandLoansPage() {
                         />
                       </svg>
                     </div>
-                    <h3 className="text-xl font-semibold text-gray-800 mb-2">Scotland's Free Tuition</h3>
-                    <p className="text-gray-600">Compare NI's low fees with Scotland's free tuition model</p>
+                    <h3 className="text-xl font-semibold text-gray-800 mb-2">Scotland&apos;s Free Tuition</h3>
+                    <p className="text-gray-600">Compare NI&apos;s low fees with Scotland&apos;s free tuition model</p>
                   </Link>
                 </div>
               </section>
