@@ -785,7 +785,7 @@ const PartYearEmploymentCalculator: React.FC = () => {
               Contact Student Finance
             </a>
             <a
-              href="http://www.gov.uk/guidance/apply-for-a-refund-or-waiver-from-the-disguised-remuneration-repayment-scheme-2020"
+              href="https://www.gov.uk/guidance/apply-for-a-refund-or-waiver-from-the-disguised-remuneration-repayment-scheme-2020"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-orange-700 text-white font-semibold py-3 px-4 sm:px-6 rounded-lg hover:bg-orange-800 transition-colors text-sm sm:text-base"
