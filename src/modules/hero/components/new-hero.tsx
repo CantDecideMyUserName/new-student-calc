@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useState } from 'react';
-import { Calculator, ChevronDown, ChevronUp } from 'lucide-react';
+import { Calculator, ChevronDown, ChevronUp, X, Info } from 'lucide-react';
 import { XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer, Area, AreaChart } from 'recharts';
 
 interface LoanPlan {
@@ -57,6 +57,7 @@ const StudentLoanCalculator: React.FC = () => {
   const [loanBalance, setLoanBalance] = useState<string>('');
   const [graduationYear, setGraduationYear] = useState<string>('2024');
   const [showAdvanced, setShowAdvanced] = useState<boolean>(false);
+  const [showDisclaimer, setShowDisclaimer] = useState<boolean>(true);
   
   // Advanced options
   const [salaryGrowth, setSalaryGrowth] = useState<string>('2.5');
@@ -870,6 +871,33 @@ const StudentLoanCalculator: React.FC = () => {
             </div>
           </div>
         </div>
+
+        {/* Disclaimer Banner */}
+        {showDisclaimer && (
+          <div className="mt-6 bg-yellow-50 border border-yellow-200 rounded-lg p-4 relative">
+            <button
+              onClick={() => setShowDisclaimer(false)}
+              className="absolute top-3 right-3 text-yellow-700 hover:text-yellow-900 transition"
+              aria-label="Close disclaimer"
+            >
+              <X className="w-5 h-5" />
+            </button>
+            <div className="flex gap-3 pr-6">
+              <Info className="w-5 h-5 text-yellow-700 flex-shrink-0 mt-0.5" />
+              <div className="text-sm text-yellow-800 leading-relaxed">
+                <span className="font-semibold">Disclaimer:</span> This tool does not constitute financial advice. We do not recommend taking actions based solely on these results. The calculator makes assumptions and results may be inaccurate due to changes in government policy, interest rates, or personal circumstances. You use this information at your own risk. We can&apos;t guarantee to be perfect, so do note you use the information at your own risk and we can&apos;t accept liability if things go wrong. For official guidance, visit{' '}
+                <a 
+                  href="https://www.gov.uk/repaying-your-student-loan" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="text-yellow-900 underline hover:text-yellow-950 font-medium"
+                >
+                  Gov UK.
+                </a>
+              </div>
+            </div>
+          </div>
+        )}
       </div>
     </div>
   );

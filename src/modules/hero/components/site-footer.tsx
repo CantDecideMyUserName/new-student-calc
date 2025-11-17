@@ -108,11 +108,11 @@ export default function NavigationSection() {
               </li>
               <li>
                 <Link 
-                  href="/about" 
+                  href="/regions" 
                   className="flex items-center text-gray-700 hover:text-purple-600 hover:translate-x-1 transition-all duration-200 group/link"
                 >
                   <div className="w-2 h-2 bg-purple-200 rounded-full mr-3 group-hover/link:bg-purple-500 transition-colors"></div>
-                  <span className="font-medium font-['Open_Sans']">About Our Mission</span>
+                  <span className="font-medium font-['Open_Sans']">UK Regional Loan Guide</span>
                 </Link>
               </li>
               <li>
