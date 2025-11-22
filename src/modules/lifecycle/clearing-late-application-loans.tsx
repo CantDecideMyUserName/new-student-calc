@@ -41,10 +41,10 @@ const ClearingLateApplicationLoans: React.FC = () => {
                     <div className="lg:flex-1 lg:min-w-0">
                         <section className="mb-8">
                             <p className="text-lg text-gray-700 leading-relaxed mb-4">
-                                Clearing is the process where universities fill remaining places after A-level results day. Approximately 30,000-40,000 students secure university places through Clearing each year—some by choice (better grades than expected opening new options), others by necessity (missing firm/insurance offers). If you're entering university through Clearing, you face a compressed timeline for student loan applications, accommodation searches, and financial planning.
+                                Clearing is the process where universities fill remaining places after A-level results day. Approximately 30,000-40,000 students secure university places through Clearing each year—some by choice (better grades than expected opening new options), others by necessity (missing firm/insurance offers). If you&apos;re entering university through Clearing, you face a compressed timeline for student loan applications, accommodation searches, and financial planning.
                             </p>
                             <p className="text-gray-700 leading-relaxed">
-                                This guide addresses the urgent financial questions Clearing students face: Can you still get student loans? How fast can Student Finance process applications? What emergency funding exists  if loans don't arrive before term starts? Understanding your options reduces stress during an already pressured period.
+                                This guide addresses the urgent financial questions Clearing students face: Can you still get student loans? How fast can Student Finance process applications? What emergency funding exists  if loans don&apos;t arrive before term starts? Understanding your options reduces stress during an already pressured period.
                             </p>
                         </section>
 
@@ -57,7 +57,7 @@ const ClearingLateApplicationLoans: React.FC = () => {
                             <div className="bg-blue-50 border-l-4 border-blue-400 p-4 mb-4">
                                 <h3 className="font-semibold text-gray-900 mb-2">Typical Clearing Timeline:</h3>
                                 <div className="space-y-2 text-gray-700 text-sm">
-                                    <p><strong>Results Day (mid-August):</strong> A-level/BTEC results released. UCAS updates showing whether you've met firm/insurance offers.</p>
+                                    <p><strong>Results Day (mid-August):</strong> A-level/BTEC results released. UCAS updates showing whether you&apos;ve met firm/insurance offers.</p>
                                     <p><strong>Results Day to 5 days after:</strong> Peak Clearing activity. Thousands of students calling universities, securing verbal offers, formal acceptance.</p>
                                     <p><strong>Late August:</strong> Clearing continues but fewer places available. Universities finalize cohorts.</p>
                                     <p><strong>Early September:</strong> Final Clearing places. Some courses full, others still recruiting.</p>
@@ -74,14 +74,14 @@ const ClearingLateApplicationLoans: React.FC = () => {
                                     <li><strong>Before term starts:</strong> Apply as soon as you secure your Clearing place to maximize processing time</li>
                                     <li><strong>Fast-track processing:</strong> Student Finance prioritizes Clearing applications if submitted by late August with all supporting documents</li>
                                     <li><strong>Realistic timeline:</strong> 4-6 weeks from complete application to first payment. Clearing students often receive first payment 2-4 weeks into term</li>
-                                    <li><strong>Late applications (after course start):</strong> You'll still get funding, but expect delays. First payment may come weeks into first term</li>
+                                    <li><strong>Late applications (after course start):</strong> you&apos;ll still get funding, but expect delays. First payment may come weeks into first term</li>
                                 </ul>
                             </div>
 
                             <div className="bg-green-50 border-l-4 border-green-400 p-4">
                                 <h3 className="font-semibold text-gray-900 mb-2">Critical Action: Apply Immediately</h3>
                                 <p className="text-gray-700 text-sm">
-                                    The moment you confirm your Clearing place via UCAS (or verbally agree pending formal confirmation), submit your student finance application. Don't wait for official confirmation letters. Student Finance processes based on UCAS acceptance, which updates within 24 hours of your Clearing confirmation. Every day counts when term starts in 2-3 weeks.
+                                    The moment you confirm your Clearing place via UCAS (or verbally agree pending formal confirmation), submit your student finance application. don&apos;t wait for official confirmation letters. Student Finance processes based on UCAS acceptance, which updates within 24 hours of your Clearing confirmation. Every day counts when term starts in 2-3 weeks.
                                 </p>
                             </div>
                         </section>
@@ -89,7 +89,7 @@ const ClearingLateApplicationLoans: React.FC = () => {
                         <section id="last-minute-funding" className="mb-8 scroll-mt-24">
                             <h2 className="text-2xl font-semibold text-gray-900 mb-4">Emergency Student Loan Applications</h2>
                             <p className="text-gray-700 leading-relaxed mb-4">
-                                If you're applying through Clearing in late August for a September start, you face a funding gap—Student Finance won't process your loan before term begins. What emergency options exist?
+                                If you&apos;re applying through Clearing in late August for a September start, you face a funding gap—Student Finance won&apos;t process your loan before term begins. What emergency options exist?
                             </p>
 
                             <div className="space-y-4 mb-4">
@@ -102,7 +102,7 @@ const ClearingLateApplicationLoans: React.FC = () => {
                                         <li><strong>Typical amount:</strong> £200-£500 emergency grants or interest-free loans</li>
                                         <li><strong>Application:</strong> Contact Student Services/Money Advice before term starts, explaining Clearing situation</li>
                                         <li><strong>Timeline:</strong> Often processed within 1-2 weeks, sometimes faster for genuine emergencies</li>
-                                        <li><strong>Repayment:</strong> Grants don't need repaying; short-term loans repaid from first student loan payment</li>
+                                        <li><strong>Repayment:</strong> Grants don&apos;t need repaying; short-term loans repaid from first student loan payment</li>
                                     </ul>
                                 </div>
 
@@ -124,10 +124,10 @@ const ClearingLateApplicationLoans: React.FC = () => {
                                 <div className="bg-gray-50 border border-gray-200 p-4 rounded">
                                     <h3 className="font-semibold text-gray-900 mb-2">Option 3: Parental/Family Bridge Funding</h3>
                                     <p className="text-gray-700 text-sm mb-2">
-                                        If family can provide temporary funding (£500-£1,500), they're effectively bridging 3-6 weeks until your first student loan payment arrives. This isn't ideal for everyone but:
+                                        If family can provide temporary funding (£500-£1,500), they&apos;re effectively bridging 3-6 weeks until your first student loan payment arrives. This isn&apos;t ideal for everyone but:
                                     </p>
                                     <ul className="list-disc ml-6 text-gray-700 text-sm space-y-1">
-                                        <li>It's short-term (repaid from first maintenance loan payment)</li>
+                                        <li>it&apos;s short-term (repaid from first maintenance loan payment)</li>
                                         <li>Avoids commercial debt (overdrafts, credit cards) with their higher interest rates</li>
                                         <li>Covers initial essentials (books, food, transport) during loan processing</li>
                                     </ul>
@@ -156,7 +156,7 @@ const ClearingLateApplicationLoans: React.FC = () => {
                                     <li><strong>Payday loans:</strong> Extremely high interest (often 1000%+ APR). Never appropriate for student loan gaps</li>
                                     <li><strong>Credit cards (if high interest):</strong> Some students rack up £1,000+ in credit card debt during first term, paying interest for years</li>
                                     <li><strong>Private student loans:</strong> Commercial student loans have higher interest than government student loans and stricter repayment terms</li>
-                                    <li><strong>Ignoring the problem:</strong> Hoping it resolves itself. Contact university Student Services immediately—they've seen this situation hundreds of times and have solutions</li>
+                                    <li><strong>Ignoring the problem:</strong> Hoping it resolves itself. Contact university Student Services immediately—they&apos;ve seen this situation hundreds of times and have solutions</li>
                                 </ul>
                             </div>
                         </section>
@@ -180,17 +180,17 @@ const ClearingLateApplicationLoans: React.FC = () => {
                             <div className="bg-yellow-50 border-l-4 border-yellow-400 p-4 mb-4">
                                 <h3 className="font-semibold text-gray-900 mb-2">Private Accommodation via Clearing:</h3>
                                 <p className="text-gray-700 text-sm mb-2">
-                                    If university halls are full, you're entering the private market late:
+                                    If university halls are full, you&apos;re entering the private market late:
                                 </p>
                                 <ul className="list-disc ml-6 text-gray-700 text-sm space-y-2">
                                     <li>
-                                        <strong>Higher deposits:</strong> Private landlords often require deposits (1 month's rent) + first month up front = £800-£1,200 immediately. University halls typically need far less up front.
+                                        <strong>Higher deposits:</strong> Private landlords often require deposits (1 months rent) + first month up front = £800-£1,200 immediately. University halls typically need far less up front.
                                     </li>
                                     <li>
                                         <strong>References and guarantors:</strong> Many landlords require UK-based guarantors (parents/family earning 3x annual rent). International students or those without guarantors face challenges.
                                     </li>
                                     <li>
-                                        <strong>Contract length:</strong> Private accommodation often requires 9-12 month contracts, including summer months when you're not there. Halls typically match academic year only.
+                                        <strong>Contract length:</strong> Private accommodation often requires 9-12 month contracts, including summer months when youre not there. Halls typically match academic year only.
                                     </li>
                                     <li>
                                         <strong>Bills:</strong> Private accommodation may exclude bills (electric, gas, internet), adding £40-£60/month. Halls typically include all bills.
@@ -221,7 +221,7 @@ const ClearingLateApplicationLoans: React.FC = () => {
                                     Some courses (particularly at post-1992 universities and further education colleges) offer January or February start dates:
                                 </p>
                                 <ul className="list-disc ml-6 text-gray-700 text-sm space-y-1">
-                                    <li><strong>Full year funding:</strong> You still receive the full academic year's tuition fee loan and maintenance loan</li>
+                                    <li><strong>Full year funding:</strong> You still receive the full academic years tuition fee loan and maintenance loan</li>
                                     <li><strong>Condensed academic year:</strong> Your course compresses the same content into fewer months (January-June), then continues standard Year 2 in September</li>
                                     <li><strong>Application timing:</strong> Apply for student finance as soon as you accept your place. Student Finance processes these outside standard cycles</li>
                                     <li><strong>Same repayment terms:</strong> Identical to September starters—repayments begin April after graduation</li>
@@ -236,20 +236,20 @@ const ClearingLateApplicationLoans: React.FC = () => {
                                 <ul className="list-disc ml-6 text-gray-700 text-sm space-y-1">
                                     <li><strong>Still eligible:</strong> Student Finance funds students who start late, provided the university accepts you</li>
                                     <li><strong>Pro-rated fees:</strong> Some universities charge pro-rated tuition for very late starts (you might pay for 2.5 years if starting 6 weeks into Year 1). Confirm with university.</li>
-                                    <li><strong>Catch-up challenges:</strong> Financial viability isn't the only consideration—can you realistically catch up 4-6 weeks of missed teaching?</li>
+                                    <li><strong>Catch-up challenges:</strong> Financial viability isn&apos;t the only consideration—can you realistically catch up 4-6 weeks of missed teaching?</li>
                                 </ul>
                             </div>
 
                             <div className="bg-yellow-50 border-l-4 border-yellow-400 p-4">
                                 <p className="text-gray-700 text-sm">
-                                    <strong>Important Note:</strong> Student  Finance England's application deadline is roughly 9 months after your course start date. You can apply very late and still receive funding, but expect significant processing delays if applying weeks or months into your course. Your first payment might arrive in mid-December if you start September and apply in October.
+                                    <strong>Important Note:</strong> Student  Finance England&apos;s application deadline is roughly 9 months after your course start date. You can apply very late and still receive funding, but expect significant processing delays if applying weeks or months into your course. Your first payment might arrive in mid-December if you start September and apply in October.
                                 </p>
                             </div>
                         </section>
 
                         <section className="text-center py-8 border-t border-gray-200 mb-8">
                             <h3 className="text-xl font-semibold text-gray-900 mb-2">
-                                Clearing doesn't mean sacrificing student loan support
+                                Clearing doesn&apos;t mean sacrificing student loan support
                             </h3>
                             <p className="text-gray-700">
                                 You have the same funding entitlement as early applicants. The key is speed—apply for student finance the moment you accept your Clearing place, and contact university Student Services immediately regarding emergency funding if needed.

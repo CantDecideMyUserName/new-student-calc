@@ -39,14 +39,14 @@ const PlacementYearLoanImpact: React.FC = () => {
                     <div className="lg:flex-1 lg:min-w-0">
                         <section className="mb-8">
                             <p className="text-lg text-gray-700 leading-relaxed mb-4">
-                                Placement years (sandwich years) are work placements between Years 2 and 3 of your degree. Tuition fees drop to £1,850 (20% of standard rate), and you earn a salary (typically £16,000-£22,000). Your student status  continues, but you're employed full-time.
+                                Placement years (sandwich years) are work placements between Years 2 and 3 of your degree. Tuition fees drop to £1,850 (20% of standard rate), and you earn a salary (typically £16,000-£22,000). Your student status  continues, but you&apos;re employed full-time.
                             </p>
                         </section>
 
                         <section id="placement-year-funding" className="mb-8 scroll-mt-24">
                             <h2 className="text-2xl font-semibold text-gray-900 mb-4">Placement Year Funding</h2>
                             <div className="bg-blue-50 border-l-4 border-blue-400 p-4 mb-4">
-                                <p className="text-gray-700 text-sm">Tuition: £1,850 (covered by tuition fee loan). Maintenance loan: Available but many students decline it since placement salary covers living costs. You're still a student so no loan repayments required despite earning £16k-£22k.</p>
+                                <p className="text-gray-700 text-sm">Tuition: £1,850 (covered by tuition fee loan). Maintenance loan: Available but many students decline it since placement salary covers living costs. you&apos;re still a student so no loan repayments required despite earning £16k-£22k.</p>
                             </div>
                         </section>
 

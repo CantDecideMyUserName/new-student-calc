@@ -39,7 +39,7 @@ const RepeatYearFunding: React.FC = () => {
                     <div className="lg:flex-1 lg:min-w-0">
                         <section className="mb-8">
                             <p className="text-lg text-gray-700 leading-relaxed mb-4">
-                                Failing a year doesn't automatically disqualify you from student finance, but repeated failures exhaust your funding eligibility. Student Finance England provides length of course + 1 year. For a 3-year degree, that's 4 years total.  If you've already used 4 years and haven't graduated,funding stops.
+                                Failing a year doesn&apos;t automatically disqualify you from student finance, but repeated failures exhaust your funding eligibility. Student Finance England provides length of course + 1 year. For a 3-year degree, that&apos;s 4 years total.  If you&apos;ve already used 4 years and haven&apos;t graduated,funding stops.
                             </p>
                         </section>
 

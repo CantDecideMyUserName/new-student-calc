@@ -122,7 +122,7 @@ const ChoosingUniversityLoanImpact: React.FC = () => {
                                     <li><strong>Software Engineering:</strong> Tech companies prioritize skills over university. Self-taught developers from any university earning £40k-£60k after 2-3 years</li>
                                     <li><strong>NHS Medicine:</strong> All UK medical schools lead to same foundation year salary (£32k). Long-term earnings identical regardless of medical school prestige</li>
                                     <li><strong>Teaching:</strong> Qualified teacher salary scales are standard across England. University choice has zero financial impact</li>
-                                    <li><strong>Nursing and Healthcare:</strong> NHS Agenda for Change pay scales don't differentiate by university</li>
+                                    <li><strong>Nursing and Healthcare:</strong> NHS Agenda for Change pay scales don&apos;t differentiate by university</li>
                                     <li><strong>Most Engineering:</strong> Accredited engineering degrees from any university lead to similar starting salaries (£28k-£32k)</li>
                                     <li><strong>Creative Industries:</strong> Portfolio and experience matter far more than university name</li>
                                 </ul>
@@ -164,7 +164,7 @@ const ChoosingUniversityLoanImpact: React.FC = () => {
 
                             <div className="bg-yellow-50 border-l-4 border-yellow-400 p-4">
                                 <p className="text-gray-700 text-sm">
-                                    <strong>Critical Insight:</strong> Higher debt is only a problem if you're on the margin of paying it off completely. If you'll definitely pay it all (high earner) or definitely won't (low to moderate earner), the prestige premium might not affect total repayment.
+                                    <strong>Critical Insight:</strong> Higher debt is only a problem if you&apos;re on the margin of paying it off completely. If you&apos;ll definitely pay it all (high earner) or definitely won&apos;t (low to moderate earner), the prestige premium might not affect total repayment.
                                 </p>
                             </div>
                         </section>
@@ -210,9 +210,9 @@ const ChoosingUniversityLoanImpact: React.FC = () => {
                                     <div className="bg-white p-3 rounded">
                                         <p className="font-semibold text-gray-800 text-sm mb-1">Worth it if:</p>
                                         <ul className="list-disc ml-6 text-gray-700 text-sm">
-                                            <li>You're studying finance, law, or consulting where London universities have significantly better placement records</li>
+                                            <li>you&apos;re studying finance, law, or consulting where London universities have significantly better placement records</li>
                                             <li>Your target employers heavily recruit from London campuses (LSE for economics, Imperial for STEM, UCL for architecture)</li>
-                                            <li>You'll realistically earn £40k+ starting salary, making the extra debt immaterial to total repayment</li>
+                                            <li>you&apos;ll realistically earn £40k+ starting salary, making the extra debt immaterial to total repayment</li>
                                             <li>The specific London course is uniquely strong (e.g., LSE Economics, Imperial Computing, UCL Architecture)</li>
                                         </ul>
                                     </div>
@@ -220,10 +220,10 @@ const ChoosingUniversityLoanImpact: React.FC = () => {
                                     <div className="bg-white p-3 rounded">
                                         <p className="font-semibold text-gray-800 text-sm mb-1">Questionable value if:</p>
                                         <ul className="list-disc ml-6 text-gray-700 text-sm">
-                                            <li>You're studying a subject where university location doesn't affect employment (teaching, nursing, most sciences)</li>
-                                            <li>You expect to earn under £35k for most of your career (the extra £8k debt likely won't be fully repaid anyway)</li>
+                                            <li>you&apos;re studying a subject where university location doesn&apos;t affect employment (teaching, nursing, most sciences)</li>
+                                            <li>You expect to earn under £35k for most of your career (the extra £8k debt likely won&apos;t be fully repaid anyway)</li>
                                             <li>You could study the same subject at a high-quality non-London Russell Group university (Manchester, Birmingham, Leeds, Edinburgh)</li>
-                                            <li>The London university isn't particularly prestigious for your subject despite the London location</li>
+                                            <li>The London university isn&apos;t particularly prestigious for your subject despite the London location</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -231,7 +231,7 @@ const ChoosingUniversityLoanImpact: React.FC = () => {
 
                             <div className="bg-yellow-50 border-l-4 border-yellow-400 p-4">
                                 <p className="text-gray-700 text-sm">
-                                    <strong>Hidden Factor:</strong> London student housing is often lower quality for the price compared to purpose-built student accommodation in cities like Manchester, Nottingham, or Birmingham. You're not just paying more for the same experience—you're paying significantly more for objectively worse living conditions in many cases.
+                                    <strong>Hidden Factor:</strong> London student housing is often lower quality for the price compared to purpose-built student accommodation in cities like Manchester, Nottingham, or Birmingham. you&apos;re not just paying more for the same experience—you&apos;re paying significantly more for objectively worse living conditions in many cases.
                                 </p>
                             </div>
                         </section>
@@ -319,14 +319,14 @@ const ChoosingUniversityLoanImpact: React.FC = () => {
                                         <strong>University tier premiums are subject-specific.</strong> Paying London prices for a creative arts degree rarely makes financial sense. Paying for LSE Economics often does.
                                     </li>
                                     <li>
-                                        <strong>Many high-earning professions don't differentiate by university.</strong> Medicine, dentistry, veterinary science, and teaching all have standardized pay regardless of where you studied.
+                                        <strong>Many high-earning professions don&apos;t differentiate by university.</strong> Medicine, dentistry, veterinary science, and teaching all have standardized pay regardless of where you studied.
                                     </li>
                                 </ol>
                             </div>
 
                             <div className="bg-yellow-50 border-l-4 border-yellow-400 p-4">
                                 <p className="text-gray-700 text-sm">
-                                    <strong>Reality Check:</strong> If you're passionate about a lower-earning subject (creative arts, social sciences, humanities), attending an expensive London university or living extravagantly will leave you with debt you'll never repay. That's mathematically fine under Plan 5—you'll pay 9% on earnings above £25k for 40 years then it's written off. But understand going in that your university choice won't significantly affect your repayment trajectory.
+                                    <strong>Reality Check:</strong> If you&apos;re passionate about a lower-earning subject (creative arts, social sciences, humanities), attending an expensive London university or living extravagantly will leave you with debt you&apos;ll never repay. that&apos;s mathematically fine under Plan 5—you&apos;ll pay 9% on earnings above £25k for 40 years then it&apos;s written off. But understand going in that your university choice won&apos;t significantly affect your repayment trajectory.
                                 </p>
                             </div>
                         </section>
@@ -350,7 +350,7 @@ const ChoosingUniversityLoanImpact: React.FC = () => {
                                         </li>
                                         <li>
                                             <strong>Oxford/Cambridge:</strong> £180-£280/week
-                                            <br /><span className="text-xs">Colleges provide accommodation but it's expensive.</span>
+                                            <br /><span className="text-xs">Colleges provide accommodation but it&apos;s expensive.</span>
                                         </li>
                                         <li>
                                             <strong>Brighton:</strong> £160-£240/week
@@ -392,7 +392,7 @@ const ChoosingUniversityLoanImpact: React.FC = () => {
                                     Maintenance loans are means-tested based on household income. Students from higher-income families receive less, on the assumption that parents will make up the difference. In practice:
                                 </p>
                                 <ul className="list-disc ml-6 text-gray-700 text-sm space-y-1">
-                                    <li>Many parents can't or won't provide the assumed contribution</li>
+                                    <li>Many parents can&apos;t or won&apos;t provide the assumed contribution</li>
                                     <li>This forces students into extensive part-time work, affecting academic performance</li>
                                     <li>Or students take private loans/overdrafts with higher interest than student loans</li>
                                     <li>Studying in a cheaper city can eliminate the parental contribution requirement entirely</li>
@@ -401,7 +401,7 @@ const ChoosingUniversityLoanImpact: React.FC = () => {
 
                             <div className="bg-blue-50 border-l-4 border-blue-400 p-4">
                                 <p className="text-gray-700 text-sm">
-                                    <strong>Practical Advice:</strong> Check your specific maintenance loan entitlement using the <Link href="https://www.gov.uk/student-finance-calculator" className="text-blue-600 underline hover:text-blue-800" target="_blank" rel="noopener noreferrer">government calculator</Link>, then research actual accommodation costs for your target universities. If there's a £3,000+ annual gap and your parents aren't covering it, seriously consider universities in more affordable cities.
+                                    <strong>Practical Advice:</strong> Check your specific maintenance loan entitlement using the <Link href="https://www.gov.uk/student-finance-calculator" className="text-blue-600 underline hover:text-blue-800" target="_blank" rel="noopener noreferrer">government calculator</Link>, then research actual accommodation costs for your target universities. If there&apos;s a £3,000+ annual gap and your parents aren&apos;t covering it, seriously consider universities in more affordable cities.
                                 </p>
                             </div>
                         </section>
@@ -432,10 +432,10 @@ const ChoosingUniversityLoanImpact: React.FC = () => {
                                 <h3 className="font-semibold text-gray-900 mb-2">Important Nuances:</h3>
                                 <ol className="list-decimal ml-6 text-gray-700 text-sm space-y-2">
                                     <li>
-                                        <strong>"Professional employment" definitions vary.</strong> A graduate working in a supermarket management trainee program counts as professional employment despite £22k starting salary.
+                                        <strong>Professional employment definitions vary.</strong> A graduate working in a supermarket management trainee program counts as professional employment despite £22k starting salary.
                                     </li>
                                     <li>
-                                        <strong>Subject matters more than university for employment rates.</strong> A computer science graduate from almost any university has \u003e90% employment. A philosophy graduate from Oxford faces tougher prospects.
+                                        <strong>Subject matters more than university for employment rates.</strong> A computer science graduate from almost any university has 90% employment. A philosophy graduate from Oxford faces tougher prospects.
                                     </li>
                                     <li>
                                         <strong>Universities in expensive cities often show higher salaries purely due to London weighting</strong>, not better opportunities. A £35k London salary might equal £28k in Manchester for purchasing power.
@@ -484,13 +484,13 @@ const ChoosingUniversityLoanImpact: React.FC = () => {
                                     <li>
                                         <strong>Calculate Actual Repayment Impact</strong>
                                         <p className="mt-1">Under Plan 5, you pay 9% of income over £25k threshold</p>
-                                        <p className="mt-1">Higher debt only matters if you're on track to repay it fully</p>
+                                        <p className="mt-1">Higher debt only matters if you&apos;re on track to repay it fully</p>
                                         <p>Use our <Link href="/" className="text-blue-600 underline hover:text-blue-800">Student Loan Calculator</Link> to model both scenarios</p>
                                     </li>
                                     <li>
                                         <strong>Factor in Write-Off</strong>
                                         <p className="mt-1">Plan 5 loans write off after 40 years</p>
-                                        <p>If you won't repay fully anyway, the extra debt is irrelevant</p>
+                                        <p>If you won&apos;t repay fully anyway, the extra debt is irrelevant</p>
                                     </li>
                                 </ol>
                             </div>
@@ -507,15 +507,15 @@ const ChoosingUniversityLoanImpact: React.FC = () => {
                                 <p className="text-gray-700 text-sm mt-3 mb-2"><strong>Negative or Neutral ROI Scenarios:</strong></p>
                                 <ul className="list-disc ml-6 text-gray-700 text-sm space-y-1">
                                     <li>Studying a subject where earnings are standardized (teaching, nursing, medicine)</li>
-                                    <li>Realistic career expectations suggest you'll never fully repay anyway (creative arts, social sciences, many sciences)</li>
-                                    <li>The premium university isn't particularly strong for your subject despite its overall reputation</li>
-                                    <li>You're choosing largely for lifestyle/location rather than career prospects</li>
+                                    <li>Realistic career expectations suggest you&apos;ll never fully repay anyway (creative arts, social sciences, many sciences)</li>
+                                    <li>The premium university isn&apos;t particularly strong for your subject despite its overall reputation</li>
+                                    <li>you&apos;re choosing largely for lifestyle/location rather than career prospects</li>
                                 </ul>
                             </div>
 
                             <div className="bg-yellow-50 border-l-4 border-yellow-400 p-4">
                                 <p className="text-gray-700 text-sm">
-                                    <strong>The Brutal Truth:</strong> For most students, university choice affects quality of life during the degree more than lifetime earnings. If you're not aiming for a career where university pedigree demonstrably matters (banking, consulting, corporate law, maybe academia), study where you'll be happy and minimize debt. The difference in total loan repayment will be minimal because you won't repay fully either way.
+                                    <strong>The Brutal Truth:</strong> For most students, university choice affects quality of life during the degree more than lifetime earnings. If you&apos;re not aiming for a career where university pedigree demonstrably matters (banking, consulting, corporate law, maybe academia), study where you&apos;ll be happy and minimize debt. The difference in total loan repayment will be minimal because you won&apos;t repay fully either way.
                                 </p>
                             </div>
                         </section>
@@ -526,7 +526,7 @@ const ChoosingUniversityLoanImpact: React.FC = () => {
                                 Strategic Decision Framework
                             </h2>
                             <p className="text-gray-700 leading-relaxed mb-4">
-                                Here's a practical framework for choosing your university with student loan impact in mind:
+                                Here&apos;s a practical framework for choosing your university with student loan impact in mind:
                             </p>
 
                             <div className="space-y-4 mb-4">
@@ -544,7 +544,7 @@ const ChoosingUniversityLoanImpact: React.FC = () => {
                                     </p>
                                     <ul className="list-disc ml-6 text-gray-700 text-sm">
                                         <li>Tuition fees (£9,250 × 3 or 4 years)</li>
-                                        <li>Actual maintenance loan you'll receive (check with Student Finance)</li>
+                                        <li>Actual maintenance loan you&apos;ll receive (check with Student Finance)</li>
                                         <li>Real accommodation costs (not university estimates)</li>
                                         <li>Parental contribution reality (not assumptions)</li>
                                     </ul>
@@ -569,14 +569,14 @@ const ChoosingUniversityLoanImpact: React.FC = () => {
                                         <li>University culture and social opportunities</li>
                                     </ul>
                                     <p className="text-gray-700 text-sm mt-2">
-                                        If the financial difference is small (under £10k total repayment difference), choose based on these factors. If it's large (£30k+), make sure you understand why and whether it's justified.
+                                        If the financial difference is small (under £10k total repayment difference), choose based on these factors. If it&apos;s large (£30k+), make sure you understand why and whether it&apos;s justified.
                                     </p>
                                 </div>
                             </div>
 
                             <div className="bg-blue-50 border-l-4 border-blue-400 p-4 mb-4">
                                 <p className="text-gray-700 text-sm">
-                                    <strong>Final Recommendation:</strong> Use our <Link href="/" className="text-blue-600 underline hover:text-blue-800">plan-specific calculators</Link> to model your exact scenarios. Input different universities, realistic starting salaries, and career progression assumptions. The calculator shows you total expected repayment, allowing you to see if paying £8,000 more in London is worth a £5,000 higher graduate salary (it's not) or a £15,000 higher graduate salary (it probably is).
+                                    <strong>Final Recommendation:</strong> Use our <Link href="/" className="text-blue-600 underline hover:text-blue-800">plan-specific calculators</Link> to model your exact scenarios. Input different universities, realistic starting salaries, and career progression assumptions. The calculator shows you total expected repayment, allowing you to see if paying £8,000 more in London is worth a £5,000 higher graduate salary (it&apos;s not) or a £15,000 higher graduate salary (it probably is).
                                 </p>
                             </div>
                         </section>
@@ -587,7 +587,7 @@ const ChoosingUniversityLoanImpact: React.FC = () => {
                                 Your university choice affects your next 40 years
                             </h3>
                             <p className="text-gray-700">
-                                Make it with full understanding of the financial implications. The "best" university isn't always the most prestigious—it's the one that delivers the best combination of educational quality and financial sense for your specific situation.
+                                Make it with full understanding of the financial implications. The best university isn&apos;t always the most prestigious—it&apos;s the one that delivers the best combination of educational quality and financial sense for your specific situation.
                             </p>
                         </section>
 

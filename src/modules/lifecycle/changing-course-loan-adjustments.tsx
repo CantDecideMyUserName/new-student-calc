@@ -47,7 +47,7 @@ const ChangingCourseLoanAdjustments: React.FC = () => {
                         <section id="switching-degrees" className="mb-8 scroll-mt-24">
                             <h2 className="text-2xl font-semibold text-gray-900 mb-4">Switching Degrees and Funding</h2>
                             <div className="bg-blue-50 border-l-4 border-blue-400 p-4 mb-4">
-                                <p className="text-gray-700 text-sm">You get length of course + 1 year funding. Switch after Year 1, you have 3 years left for a new 3-year degree. The debt from Year 1 remains—you don't get a "refund" for the original course tuition or maintenance loans.</p>
+                                <p className="text-gray-700 text-sm">You get length of course + 1 year funding. Switch after Year 1, you have 3 years left for a new 3-year degree. The debt from Year 1 remains—you don&apos;t get a &quot;refund&quot; for the original course tuition or maintenance loans.</p>
                             </div>
                         </section>
 

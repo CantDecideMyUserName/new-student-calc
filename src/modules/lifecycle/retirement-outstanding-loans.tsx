@@ -49,7 +49,7 @@ const RetirementOutstandingLoans: React.FC = () => {
                             </div>
 
                             <div className="bg-green-50 border-l-4 border-green-400 p-4">
-                                <p className="text-gray-700 text-sm">This is why most moderate earners shouldn't worry about total debt size. Whether you owe £45k or £75k at retirement, both write off. You paid the same 9% above threshold throughout your working life. Total debt number is largely irrelevant for write-off-bound graduates.</p>
+                                <p className="text-gray-700 text-sm">This is why most moderate earners shouldn&apos;t worry about total debt size. Whether you owe £45k or £75k at retirement, both write off. You paid the same 9% above threshold throughout your working life. Total debt number is largely irrelevant for write-off-bound graduates.</p>
                             </div>
                         </section>
 

@@ -1,8 +1,8 @@
-import ClearingLateApplicationLoans from '@/modules/lifecycle/clearing-late-application-loans';
 import React from 'react';
 import { JsonLd } from '@/modules/seo/json-ld';
 import { BreadcrumbList, Article, WithContext, FAQPage } from 'schema-dts';
 import { Metadata } from 'next';
+import ClearingLateApplicationLoans from '@/modules/lifecycle/clearing-late-application-loans';
 
 export const metadata: Metadata = {
     title: "Clearing Student Loans: Late University Application Emergency Funding | 2025",

@@ -16,7 +16,7 @@ export default function NavigationSection() {
 
         {/* Navigation Cards */}
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-          
+
           {/* Tools Card */}
           <div className="bg-white rounded-2xl p-8 shadow-lg hover:shadow-2xl transition-all duration-300 border border-blue-100 hover:border-blue-200 group">
             <div className="flex items-center mb-6">
@@ -34,8 +34,8 @@ export default function NavigationSection() {
             </p>
             <ul className="space-y-3">
               <li>
-                <Link 
-                  href="/calculators" 
+                <Link
+                  href="/calculators"
                   className="flex items-center text-gray-700 hover:text-blue-600 hover:translate-x-1 transition-all duration-200 group/link"
                 >
                   <div className="w-2 h-2 bg-blue-200 rounded-full mr-3 group-hover/link:bg-blue-500 transition-colors"></div>
@@ -43,8 +43,8 @@ export default function NavigationSection() {
                 </Link>
               </li>
               <li>
-                <Link 
-                  href="/compare" 
+                <Link
+                  href="/compare"
                   className="flex items-center text-gray-700 hover:text-blue-600 hover:translate-x-1 transition-all duration-200 group/link"
                 >
                   <div className="w-2 h-2 bg-blue-200 rounded-full mr-3 group-hover/link:bg-blue-500 transition-colors"></div>
@@ -52,8 +52,8 @@ export default function NavigationSection() {
                 </Link>
               </li>
               <li>
-                <Link 
-                  href="/plans" 
+                <Link
+                  href="/plans"
                   className="flex items-center text-gray-700 hover:text-blue-600 hover:translate-x-1 transition-all duration-200 group/link"
                 >
                   <div className="w-2 h-2 bg-blue-200 rounded-full mr-3 group-hover/link:bg-blue-500 transition-colors"></div>
@@ -61,8 +61,8 @@ export default function NavigationSection() {
                 </Link>
               </li>
               <li>
-                <Link 
-                  href="/contact" 
+                <Link
+                  href="/contact"
                   className="flex items-center text-gray-700 hover:text-blue-600 hover:translate-x-1 transition-all duration-200 group/link"
                 >
                   <div className="w-2 h-2 bg-blue-200 rounded-full mr-3 group-hover/link:bg-blue-500 transition-colors"></div>
@@ -89,8 +89,8 @@ export default function NavigationSection() {
             </p>
             <ul className="space-y-3">
               <li>
-                <Link 
-                  href="/guides" 
+                <Link
+                  href="/guides"
                   className="flex items-center text-gray-700 hover:text-purple-600 hover:translate-x-1 transition-all duration-200 group/link"
                 >
                   <div className="w-2 h-2 bg-purple-200 rounded-full mr-3 group-hover/link:bg-purple-500 transition-colors"></div>
@@ -98,8 +98,8 @@ export default function NavigationSection() {
                 </Link>
               </li>
               <li>
-                <Link 
-                  href="/faqs" 
+                <Link
+                  href="/faqs"
                   className="flex items-center text-gray-700 hover:text-purple-600 hover:translate-x-1 transition-all duration-200 group/link"
                 >
                   <div className="w-2 h-2 bg-purple-200 rounded-full mr-3 group-hover/link:bg-purple-500 transition-colors"></div>
@@ -107,8 +107,8 @@ export default function NavigationSection() {
                 </Link>
               </li>
               <li>
-                <Link 
-                  href="/regions" 
+                <Link
+                  href="/regions"
                   className="flex items-center text-gray-700 hover:text-purple-600 hover:translate-x-1 transition-all duration-200 group/link"
                 >
                   <div className="w-2 h-2 bg-purple-200 rounded-full mr-3 group-hover/link:bg-purple-500 transition-colors"></div>
@@ -116,12 +116,12 @@ export default function NavigationSection() {
                 </Link>
               </li>
               <li>
-                <Link 
-                  href="/contact" 
+                <Link
+                  href="/lifecycle"
                   className="flex items-center text-gray-700 hover:text-purple-600 hover:translate-x-1 transition-all duration-200 group/link"
                 >
                   <div className="w-2 h-2 bg-purple-200 rounded-full mr-3 group-hover/link:bg-purple-500 transition-colors"></div>
-                  <span className="font-medium font-['Open_Sans']">Get in Touch</span>
+                  <span className="font-medium font-['Open_Sans']">Student loan lifcycle</span>
                 </Link>
               </li>
             </ul>
@@ -144,8 +144,8 @@ export default function NavigationSection() {
             </p>
             <ul className="space-y-3">
               <li>
-                <Link 
-                  href="/privacy-policy" 
+                <Link
+                  href="/privacy-policy"
                   className="flex items-center text-gray-700 hover:text-emerald-600 hover:translate-x-1 transition-all duration-200 group/link"
                 >
                   <div className="w-2 h-2 bg-emerald-200 rounded-full mr-3 group-hover/link:bg-emerald-500 transition-colors"></div>
@@ -153,8 +153,8 @@ export default function NavigationSection() {
                 </Link>
               </li>
               <li>
-                <Link 
-                  href="/terms" 
+                <Link
+                  href="/terms"
                   className="flex items-center text-gray-700 hover:text-emerald-600 hover:translate-x-1 transition-all duration-200 group/link"
                 >
                   <div className="w-2 h-2 bg-emerald-200 rounded-full mr-3 group-hover/link:bg-emerald-500 transition-colors"></div>
@@ -162,8 +162,8 @@ export default function NavigationSection() {
                 </Link>
               </li>
               <li>
-                <Link 
-                  href="/cookie-policy" 
+                <Link
+                  href="/cookie-policy"
                   className="flex items-center text-gray-700 hover:text-emerald-600 hover:translate-x-1 transition-all duration-200 group/link"
                 >
                   <div className="w-2 h-2 bg-emerald-200 rounded-full mr-3 group-hover/link:bg-emerald-500 transition-colors"></div>
@@ -171,8 +171,8 @@ export default function NavigationSection() {
                 </Link>
               </li>
               <li>
-                <Link 
-                  href="/disclaimer" 
+                <Link
+                  href="/disclaimer"
                   className="flex items-center text-gray-700 hover:text-emerald-600 hover:translate-x-1 transition-all duration-200 group/link"
                 >
                   <div className="w-2 h-2 bg-emerald-200 rounded-full mr-3 group-hover/link:bg-emerald-500 transition-colors"></div>
@@ -181,7 +181,7 @@ export default function NavigationSection() {
               </li>
             </ul>
           </div>
-        </div>        
+        </div>
       </div>
     </section>
   );

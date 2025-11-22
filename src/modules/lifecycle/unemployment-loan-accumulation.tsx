@@ -39,21 +39,21 @@ const UnemploymentLoanAccumulation: React.FC = () => {
                     <div className="lg:flex-1 lg:min-w-0">
                         <section className="mb-8">
                             <p className="text-lg text-gray-700 leading-relaxed mb-4">
-                                If you're unemployed or earning below £25,000, you make zero student loan repayments. But interest continues accruing at RPI. Extended unemployment means your balance grows despite making no payments. Under Plan 5's 40-year write-off, this often doesn't matter—most moderate earners never repay fully anyway.
+                                If you&apos;re unemployed or earning below £25,000, you make zero student loan repayments. But interest continues accruing at RPI. Extended unemployment means your balance grows despite making no payments. Under Plan 5&apos;s 40-year write-off, this often doesn&apos;t matter—most moderate earners never repay fully anyway.
                             </p>
                         </section>
 
                         <section id="unemployment-repayments" className="mb-8 scroll-mt-24">
                             <h2 className="text-2xl font-semibold text-gray-900 mb-4">Unemployment and Repayments</h2>
                             <div className="bg-blue-50 border-l-4 border-blue-400 p-4 mb-4">
-                                <p className="text-gray-700 text-sm">Earning below £25k or unemployed: £0 monthly repayment. HMRC automatically stops deductions when you're not earning. You don't need to inform Student Finance—they work from PAYE data. Repayments resume automatically when you earn above threshold again.</p>
+                                <p className="text-gray-700 text-sm">Earning below £25k or unemployed: £0 monthly repayment. HMRC automatically stops deductions when you&apos;re not earning. You don&apos;t need to inform Student Finance—they work from PAYE data. Repayments resume automatically when you earn above threshold again.</p>
                             </div>
                         </section>
 
                         <section id="interest-during-unemployment" className="mb-8 scroll-mt-24">
                             <h2 className="text-2xl font-semibold text-gray-900 mb-4">Interest During Unemployment</h2>
                             <div className="bg-yellow-50 border-l-4 border-yellow-400 p-4">
-                                <p className="text-gray-700 text-sm">Interest accrues at RPI regardless of employment status. 1 year unemployed on £50k balance at 3% RPI = £1,500 additional debt. But for most graduates, this additional debt will be written off at 40 years anyway. Only high earners who'll fully repay should worry about unemployment-period interest accumulation.</p>
+                                <p className="text-gray-700 text-sm">Interest accrues at RPI regardless of employment status. 1 year unemployed on £50k balance at 3% RPI = £1,500 additional debt. But for most graduates, this additional debt will be written off at 40 years anyway. Only high earners who&apos;ll fully repay should worry about unemployment-period interest accumulation.</p>
                             </div>
                         </section>
 

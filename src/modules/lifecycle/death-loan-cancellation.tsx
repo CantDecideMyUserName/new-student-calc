@@ -38,18 +38,18 @@ const DeathLoanCancellation: React.FC = () => {
                     <div className="lg:flex-1 lg:min-w-0">
                         <section className="mb-8">
                             <p className="text-lg text-gray-700 leading-relaxed mb-4">
-                                If the borrower dies, their student loan is automatically cancelled. No repayment from the estate, no liability for family members, no inheritance reduction. Student Finance England writes off the entire outstanding balance—£5k or £75k, it's completely wiped.
+                                If the borrower dies, their student loan is automatically cancelled. No repayment from the estate, no liability for family members, no inheritance reduction. Student Finance England writes off the entire outstanding balance—£5k or £75k, it&apos;s completely wiped.
                             </p>
                         </section>
 
                         <section id="death-cancellation-rules" className="mb-8 scroll-mt-24">
                             <h2 className="text-2xl font-semibold text-gray-900 mb-4">Death Cancellation Rules</h2>
                             <div className="bg-blue-50 border-l-4 border-blue-400 p-4 mb-4">
-                                <p className="text-gray-700 text-sm">UK student loans are not secured debt. They don't pass to spouses, children, parents, or estates. Send death certificate to Student Finance England—they cancel the loan within weeks. Any PAYE deductions made after death are refunded to the estate.</p>
+                                <p className="text-gray-700 text-sm">UK student loans are not secured debt. They don&apos;t pass to spouses, children, parents, or estates. Send death certificate to Student Finance England—they cancel the loan within weeks. Any PAYE deductions made after death are refunded to the estate.</p>
                             </div>
 
                             <div className="bg-green-50 border-l-4 border-green-400 p-4">
-                                <p className="text-gray-700 text-sm">This differs from private loans, mortgages, or credit cards, which ARE recovered from estates. Student loans are unique: they're income-contingent in life and completely forgiven in death. This protects families and ensures student debt never becomes inherited burden.</p>
+                                <p className="text-gray-700 text-sm">This differs from private loans, mortgages, or credit cards, which ARE recovered from estates. Student loans are unique: they&apos;re income-contingent in life and completely forgiven in death. This protects families and ensures student debt never becomes inherited burden.</p>
                             </div>
                         </section>
 

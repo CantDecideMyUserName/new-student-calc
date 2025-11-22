@@ -46,7 +46,7 @@ const StudyAbroadYearLoans: React.FC = () => {
                         <section id="year-abroad-funding" className="mb-8 scroll-mt-24">
                             <h2 className="text-2xl font-semibold text-gray-900 mb-4">Year Abroad Funding Rules</h2>
                             <div className="bg-blue-50 border-l-4 border-blue-400 p-4 mb-4">
-                                <p className="text-gray-700 text-sm">UK universities charge reduced fees (15% of standard rate) for year abroad. You still receive full maintenance loan based on parental income. Erasmus+ grants (if studying in Europe) provide £300-£400/month additional funding. These don't need repaying.</p>
+                                <p className="text-gray-700 text-sm">UK universities charge reduced fees (15% of standard rate) for year abroad. You still receive full maintenance loan based on parental income. Erasmus+ grants (if studying in Europe) provide £300-£400/month additional funding. These don&apos;t need repaying.</p>
                             </div>
                         </section>
 
