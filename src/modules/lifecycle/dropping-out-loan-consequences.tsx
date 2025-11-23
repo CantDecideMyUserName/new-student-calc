@@ -5,8 +5,8 @@ import DrLilaDesc from '@/components/common/dr-lila-desc';
 
 const DroppingOutLoanConsequences: React.FC = () => {
     const tocItems = [
-        { id: "partial-degree-debt", title: "Partial Degree Debt: Wha&quot;t You Owe", level: 2 },
-        { id: "no-qualification-repayment", title: "Repaymen&quot;t Withou&quot;t a Degree", level: 2 },
+        { id: "partial-degree-debt", title: "Partial Degree Debt: What You Owe", level: 2 },
+        { id: "no-qualification-repayment", title: "Repayment Without a Degree", level: 2 },
         { id: "re-enrolling-options", title: "Re-Enrolling and Further Loan Eligibility", level: 2 },
         { id: "alternatives-to-dropping-out", title: "Alternatives to Dropping Out", level: 2 },
     ];
@@ -19,16 +19,16 @@ const DroppingOutLoanConsequences: React.FC = () => {
                         <ol className="flex items-center space-x-1 text-sm text-gray-600">
                             <li><Link className="hover:text-blue-700 hover:underline" href="/">Home</Link></li>
                             <li className="flex items-center"><svg xmlns="http://www.w3.org/2000/svg" className="h-3 w-3 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" /></svg></li>
-                            <li><Link className="hover:text-blue-700 hover:underline" href="/lifecycle/">Studen&quot;t Loan Lifecycle</Link></li>
+                            <li><Link className="hover:text-blue-700 hover:underline" href="/lifecycle/">Student Loan Lifecycle</Link></li>
                             <li className="flex items-center"><svg xmlns="http://www.w3.org/2000/svg" className="h-3 w-3 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" /></svg></li>
                             <li><span className="font-medium text-gray-800" aria-current="page">Dropping Out: Loan Consequences</span></li>
                         </ol>
                     </nav>
                     <h1 className="text-3xl md:text-4xl font-bold text-gray-800 mt-4 mb-4">
-                        Dropping Out: Studen&quot;t Loan Consequences and Repaymen&quot;t Obligations
+                        Dropping Out: Student Loan Consequences and Repayment Obligations
                     </h1>
                     <p className="text-xl text-gray-600">
-                        Financial impac&quot;t of leaving university early, partial degree debt, and repaymen&quot;t withou&quot;t a qualification
+                        Financial impact of leaving university early, partial degree debt, and repayment without a qualification
                     </p>
                 </div>
             </section>
@@ -41,44 +41,44 @@ const DroppingOutLoanConsequences: React.FC = () => {
                     <div className="lg:flex-1 lg:min-w-0">
                         <section className="mb-8">
                             <p className="text-lg text-gray-700 leading-relaxed mb-4">
-                                Approximately 6-7% of UK undergraduates drop ou&quot;t before completing their degree. If you&apos;re considering dropping ou&quot;t or have already left, understanding your studen&quot;t loan obligations is critical. The harsh reality: you owe every penny borrowed, regardless of whether you completed your degree. Bu&quot;t the repaymen&quot;t terms are identical to graduates—9% above the threshold for 40 years, then write-off.
+                                Approximately 6-7% of UK undergraduates drop out before completing their degree. If you&apos;re considering dropping out or have already left, understanding your student loan obligations is critical. The harsh reality: you owe every penny borrowed, regardless of whether you completed your degree. But the repayment terms are identical to graduates—9% above the threshold for 40 years, then write-off.
                             </p>
                         </section>
 
                         <section id="partial-degree-debt" className="mb-8 scroll-mt-24">
-                            <h2 className="text-2xl font-semibold text-gray-900 mb-4">Partial Degree Debt: Wha&quot;t You Owe</h2>
+                            <h2 className="text-2xl font-semibold text-gray-900 mb-4">Partial Degree Debt: What You Owe</h2>
                             <p className="text-gray-700 leading-relaxed mb-4">
-                                When you drop out, you keep all studen&quot;t loans disbursed up to tha&quot;t point. there&apos;s no &quot;refund&quot; mechanism.
+                                When you drop out, you keep all student loans disbursed up to that point. there&apos;s no refund mechanism.
                             </p>
 
                             <div className="bg-blue-50 border-l-4 border-blue-400 p-4 mb-4">
-                                <h3 className="font-semibold text-gray-900 mb-2">Deb&quot;t by Dropou&quot;t Timing:</h3>
+                                <h3 className="font-semibold text-gray-900 mb-2">Debt by Dropout Timing:</h3>
                                 <p className="text-gray-700 text-sm">After Year 1: ~£19,250 | After Year 2: ~£38,500 | After Year 3: ~£57,750</p>
                             </div>
 
                             <div className="bg-yellow-50 border-l-4 border-yellow-400 p-4 mb-4">
-                                <h3 className="font-semibold text-gray-900 mb-2">Can I Avoid Repaying If I don&apos;&quot;t Graduate?</h3>
+                                <h3 className="font-semibold text-gray-900 mb-2">Can I Avoid Repaying If I don&apos;t Graduate?</h3>
                                 <p className="text-gray-700 text-sm">
-                                    No. Studen&quot;t loan repaymen&quot;t is based on income, no&quot;t qualification status. If you earn above £25,000, you make 9% repayments like graduates.
+                                    No. Student loan repayment is based on income, not qualification status. If you earn above £25,000, you make 9% repayments like graduates.
                                 </p>
                             </div>
                         </section>
 
                         <section id="no-qualification-repayment" className="mb-8 scroll-mt-24">
-                            <h2 className="text-2xl font-semibold text-gray-900 mb-4">Repaymen&quot;t Withou&quot;t a Degree</h2>
+                            <h2 className="text-2xl font-semibold text-gray-900 mb-4">Repayment Without a Degree</h2>
                             <p className="text-gray-700 leading-relaxed mb-4">
-                                Your repaymen&quot;t obligations are identical to graduates, bu&quot;t your earning trajectory is typically lower withou&quot;t a degree qualification.
+                                Your repayment obligations are identical to graduates, but your earning trajectory is typically lower without a degree qualification.
                             </p>
 
                             <div className="bg-gray-50 border border-gray-200 p-4 mb-4">
-                                <p className="text-gray-700 text-sm">Early dropouts (Year 1) often pay less total than graduates because of lower deb&quot;t and earnings. Bu&quot;t earning £25k instead of £35k costs £400k+ lifetime income—vastly exceeding any loan repaymen&quot;t savings.</p>
+                                <p className="text-gray-700 text-sm">Early dropouts (Year 1) often pay less total than graduates because of lower debt and earnings. But earning £25k instead of £35k costs £400k+ lifetime income—vastly exceeding any loan repayment savings.</p>
                             </div>
                         </section>
 
                         <section id="re-enrolling-options" className="mb-8 scroll-mt-24">
                             <h2 className="text-2xl font-semibold text-gray-900 mb-4">Re-Enrolling and Further Loan Eligibility</h2>
                             <p className="text-gray-700 leading-relaxed mb-4">
-                                Studen&quot;t Finance England funds for length of course + 1 year. Drop ou&quot;t after Year 1, you have 3 years remaining funding. Re-enrolling doesn&apos;&quot;t cancel your dropou&quot;t debt—i&quot;t adds to your new degree debt.
+                                Student Finance England funds for length of course + 1 year. Drop out after Year 1, you have 3 years remaining funding. Re-enrolling doesn&apos;t cancel your dropout debt—it adds to your new degree debt.
                             </p>
                         </section>
 
@@ -91,7 +91,7 @@ const DroppingOutLoanConsequences: React.FC = () => {
                                 </div>
                                 <div className="bg-gray-50 border border-gray-200 p-4 rounded">
                                     <h3 className="font-semibold text-gray-900 mb-2">2. Switching Courses</h3>
-                                    <p className="text-gray-700 text-sm">Transfer internally or externally via UCAS to continue withou&quot;t dropping out.</p>
+                                    <p className="text-gray-700 text-sm">Transfer internally or externally via UCAS to continue without dropping out.</p>
                                 </div>
                             </div>
                         </section>
