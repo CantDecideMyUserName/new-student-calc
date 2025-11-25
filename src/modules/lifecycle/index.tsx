@@ -30,7 +30,7 @@ export default function LifecyclePage() {
 
               <h1 className="text-3xl md:text-4xl font-bold text-gray-800 mt-4 mb-4">Student Loan Lifecycle Guide</h1>
               <p className="text-xl text-gray-600">
-                Navigate every stage of your student loan journey - from choosing university to retirement and write-off
+                Navigate every stage of your student loan journey - from choosing university to retirement and write-off.
               </p>
             </div>
           </section>
@@ -41,7 +41,7 @@ export default function LifecyclePage() {
               Pre-University Phase
             </h2>
             <p className="text-gray-600 mb-6">
-              Critical decisions before you start university that will affect your 40-year loan journey
+              Critical decisions before you start university that will affect your 40-year loan journey. University choice, gap years, foundation years, and city selection determine your total debt size—but counterintuitively, higher debt often costs moderate earners £0 extra due to Plan 5&apos;s write-off protection.
             </p>
 
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
@@ -144,7 +144,7 @@ export default function LifecyclePage() {
               During University Phase
             </h2>
             <p className="text-gray-600 mb-6">
-              Managing loan obligations while studying - changes, interruptions, and opportunities
+              Managing loan obligations while studying—course changes, repeat years, study abroad opportunities, and academic interruptions all affect your funding eligibility and total debt. Understanding the &quot;length of course + 1 year&quot; rule and strategic timing of changes can save thousands in unnecessary borrowing or prevent funding exhaustion.
             </p>
 
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
@@ -247,7 +247,7 @@ export default function LifecyclePage() {
               Post-Graduation Phase
             </h2>
             <p className="text-gray-600 mb-6">
-              Long-term repayment journey from first job to retirement and write-off
+              Long-term repayment journey from first job to retirement and write-off—spanning 40 years for most graduates. Your career trajectory determines whether you&apos;ll fully repay (high earners in medicine, law, finance) or reach write-off with substantial balance remaining (70% of graduates earning £25k-£45k throughout career, paying only 9% above threshold regardless of debt size).
             </p>
 
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">

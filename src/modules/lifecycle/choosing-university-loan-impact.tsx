@@ -576,7 +576,7 @@ const ChoosingUniversityLoanImpact: React.FC = () => {
 
                             <div className="bg-blue-50 border-l-4 border-blue-400 p-4 mb-4">
                                 <p className="text-gray-700 text-sm">
-                                    <strong>Final Recommendation:</strong> Use our <Link href="/" className="text-blue-600 underline hover:text-blue-800">plan-specific calculators</Link> to model your exact scenarios. Input different universities, realistic starting salaries, and career progression assumptions. The calculator shows you total expected repayment, allowing you to see if paying £8,000 more in London is worth a £5,000 higher graduate salary (it&apos;s not) or a £15,000 higher graduate salary (it probably is).
+                                    <strong>Final Recommendation:</strong> Use our <Link href="/calculators" className="text-blue-600 underline hover:text-blue-800">plan-specific calculators</Link> to model your exact scenarios. Input different universities, realistic starting salaries, and career progression assumptions. The calculator shows you total expected repayment, allowing you to see if paying £8,000 more in London is worth a £5,000 higher graduate salary (it&apos;s not) or a £15,000 higher graduate salary (it probably is).
                                 </p>
                             </div>
                         </section>
