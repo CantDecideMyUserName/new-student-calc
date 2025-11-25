@@ -159,6 +159,7 @@ const COMPARE_CATEGORIES = [
       { href: "/compare/plan-1-vs-plan-2/", label: "Plan 1 vs Plan 2" },
       { href: "/compare/plan-2-vs-plan-5/", label: "Plan 2 vs Plan 5" },
       { href: "/compare/plan-4-vs-plan-5/", label: "Plan 4 vs Plan 5" },
+      { href: "/compare/plan-2-vs-plan-4/", label: "Plan 2 vs Plan 4" },
       { href: "/compare/undergraduate-vs-postgraduate/", label: "Undergraduate vs Postgraduate" },
     ]
   },

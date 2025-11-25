@@ -45,7 +45,7 @@ const resources: Column = {
     { label: "Plan 1 vs Plan 2", href: "/compare/plan-1-vs-plan-2/" },
     { label: "Plan 2 vs Plan 5", href: "/compare/plan-2-vs-plan-5/" },
     { label: "Plan 4 vs Plan 5", href: "/compare/plan-4-vs-plan-5/" },
-    { label: "Undergraduate vs Postgraduate", href: "/compare/undergraduate-vs-postgraduate/" },
+    { label: "Plan 2 vs Plan 4 ", href: "/compare/plan-2-vs-plan-4/" },
   ],
 };
 
