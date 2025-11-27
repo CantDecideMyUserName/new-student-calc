@@ -11,7 +11,7 @@ const openSans = Open_Sans({
 });
 
 export const metadata: Metadata = {
-  title:  "%s",
+  title: "%s",
   description: "%s",
 };
 
@@ -38,7 +38,9 @@ export default function RootLayout({
             `
           }}
         />
-        
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6191764023643150"
+          crossOrigin="anonymous"></script>
+
         {/* Clarity Analytics */}
         <script
           type="text/javascript"
@@ -57,7 +59,7 @@ export default function RootLayout({
         className={`${openSans.variable} ${openSans.variable} antialiased`}
       >
         <Navbar />
-        <div className="mt-20">{children}</div> 
+        <div className="mt-20">{children}</div>
         <CookieConsent />
         <Footer />
       </body>
