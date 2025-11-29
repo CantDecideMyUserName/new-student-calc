@@ -27,9 +27,8 @@ This site is built to help UK borrowers understand, predict, and optimize their 
 5. [Regional Support](#regional-support)
 6. [Lifecycle Stage Support](#lifecycle-stage-support)
 7. [FAQs](#faqs)
-8. [Site Philosophy](#site-philosophy)
-9. [Site Status](#site-status)
-10. [Quick Navigation](#quick-navigation)
+8. [Info & Legal](#info--legal)
+9. [Quick Navigation](#quick-navigation)
 
 ---
 
@@ -56,6 +55,8 @@ All calculators are under `/calculators/`.
   `/calculators/combined-ug-pg-repayment-allocator/` – Splits repayments between UG and PG
 - **Plan Cohort Finder**  
   `/calculators/plan-cohort-finder/` – Identify your plan(s) from course start/location
+- **Student Finance Calculator**  
+  `/calculators/student-finance-calculator/` – Estimate maintenance loans and grants
 
 ### Employment and Income Scenario Calculators
 - **Multiple Jobs / Side Income Calculator**  
@@ -74,6 +75,8 @@ All calculators are under `/calculators/`.
   `/calculators/multiple-jobs-paye-split-calculator/` – Over/under deductions from split payroll
 - **Part-Time Earnings Calculator**  
   `/calculators/part-time-earnings-calculator/` – Threshold impact for part-time roles
+- **Career Progression Calculator**  
+  `/calculators/career-progression-calculator/` – Long-term career repayment projection
 
 ### Lifecycle and Event-Based Calculators
 - **Maternity / Paternity Leave Adjustment Calculator**  
@@ -84,8 +87,6 @@ All calculators are under `/calculators/`.
   `/calculators/graduation-year-impact-calculator/` – Course end timing effects
 - **Repayment Start Date Calculator**  
   `/calculators/repayment-start-date-calculator/` – When deductions begin
-- **Moving Abroad Calculator**  
-  `/calculators/moving-abroad-calculator/` – Overseas repayment rules
 
 ### Cost, Interest, and Strategy Calculators
 - **Monthly Repayment Calculator**  
@@ -98,10 +99,14 @@ All calculators are under `/calculators/`.
   `/calculators/early-payoff-date-calculator/` – Date of full repayment
 - **Student Loan Overpayment Calculator**  
   `/calculators/student-loan-overpayment-calculator/` – Overpayment vs long-run savings
+- **Investment vs Overpayment Calculator**  
+  `/calculators/investment-vs-overpayment-calculator/` – Compare investing returns vs paying down debt
 - **Income Threshold Alert Calculator**  
   `/calculators/income-threshold-alert-calculator/` – Flag crossing thresholds
 - **P60 / P45 Student Loan Reconciliation Calculator**  
   `/calculators/p60-p45-student-loan-reconciliation-calculator/` – End-of-year correction
+- **Student Loan Income Comparison**  
+  `/calculators/student-loan-income-comparison/` – Compare take-home pay with/without loans
 
 ### Salary, Tax, and Financial Planning Calculators
 - **Salary Growth Impact Calculator**  
@@ -128,6 +133,8 @@ All calculators are under `/calculators/`.
   `/calculators/pension-salary-sacrifice-effect-calculator/` – Pension reduces repayment
 - **Regional / National Comparison Calculator**  
   `/calculators/regional-national-comparison-calculator/` – England vs Scotland vs Wales etc.
+- **Tax Year Threshold Interest Browser**  
+  `/calculators/tax-year-threshold-interest-browser/` – Historical data browser
 
 ---
 
@@ -142,50 +149,68 @@ All guides are under `/guides/`.
   `/guides/loan-interest-explained/`
 - **Repayment Thresholds Guide**  
   `/guides/repayment-thresholds/`
-- **Write-Off Rules Explained**  
-  `/guides/write-off-rules/`
+- **Loan Types Explained**  
+  `/guides/loan-types-explained/`
+- **Student Loan Interest Rates**  
+  `/guides/student-loan-interest-rates/`
 
 ### Plan-Specific Strategy Guides
 - **Plan 2 Strategy Guide**  
-  `/guides/plan-2-strategy-guide/`
+  `/guides/plan-2-student-loans-uk-strategy/`
 - **Plan 5 Strategy Guide**  
-  `/guides/plan-5-strategy-guide/`
+  `/guides/plan-5-student-loans-uk-optimization/`
 - **Postgraduate Loan Strategy Guide**  
-  `/guides/postgraduate-loan-strategy-guide/`
+  `/guides/postgraduate-loans-uk-strategy/`
 
 ### Employment and Tax Guides
 - **PAYE vs SA Repayments Guide**  
-  `/guides/paye-vs-self-assessment/`
+  `/guides/paye-vs-self-assessment-student-loans/`
 - **Self-Employed Repayment Guide**  
-  `/guides/self-employed-repayments/`
+  `/guides/self-employment-student-loans-uk/`
 - **Contractor / IR35 / Umbrella Guide**  
-  `/guides/contractor-repayments/`
+  `/guides/contractors-student-loans-ir35-umbrella-cis/`
 - **Multiple Jobs Repayment Guide**  
-  `/guides/multiple-jobs-student-loans/`
+  `/guides/multiple-jobs-student-loans-uk/`
 - **Bonuses and Variable Pay Guide**  
-  `/guides/bonuses-and-student-loans/`
+  `/guides/bonus-payments-student-loans-uk/`
 - **Pension and Salary Sacrifice Guide**  
-  `/guides/pension-salary-sacrifice/`
+  `/guides/salary-sacrifice-student-loans-uk/`
+- **Tax Codes and Payslips**  
+  `/guides/student-loan-tax-code-payslip-uk/`
+- **Tax Codes Guide**  
+  `/guides/student-loan-tax-codes/`
+- **Investment Income Guide**  
+  `/guides/investment-income-dividends-student-loans-uk/`
+- **Part-Time Work Guide**  
+  `/guides/part-time-work-student-loans-uk/`
+- **P60/P45 Repayments**  
+  `/guides/p60-p45-student-loan-repayments/`
 
 ### Life Events and Lifecycle Guides
-- **Graduation and Repayment Start Guide**  
-  `/guides/graduation-and-repayment-start/`
-- **Parental Leave Guide**  
-  `/guides/parental-leave-and-student-loans/`
-- **Career Break and Part-Year Work Guide**  
-  `/guides/career-breaks/`
+- **Career Progression and Marginal Tax**  
+  `/guides/career-progression-student-loans-marginal-tax/`
+- **Maternity Pay Guide**  
+  `/guides/maternity-pay-student-loans-uk/`
 - **Moving Abroad Guide**  
-  `/guides/moving-abroad/`
-- **Retirement and Final Write-Off Guide**  
-  `/guides/retirement-writeoff/`
+  `/guides/moving-abroad-uk-student-loans/`
+- **Side Hustles Guide**  
+  `/guides/side-hustles-student-loans-uk/`
+- **Crossing Thresholds Guide**  
+  `/guides/crossing-student-loan-thresholds-uk/`
 
 ### Financial Planning and Strategy Guides
 - **Overpaying vs Investing Guide**  
-  `/guides/overpaying-vs-investing/`
+  `/guides/investing-vs-loan-repayment/`
+- **Should I Overpay?**  
+  `/guides/should-i-overpay-loan/`
 - **Mortgage and Student Loans Guide**  
-  `/guides/mortgages-and-student-loans/`
-- **Inflation and Long-Run Cost Guide**  
-  `/guides/inflation-and-loans/`
+  `/guides/student-loans-and-mortgages/`
+- **Student Loans and Taxes**  
+  `/guides/student-loans-and-taxes/`
+- **High Earners Guide**  
+  `/guides/student-loans-high-earners/`
+- **Low Income Guide**  
+  `/guides/student-loans-low-income/`
 
 ---
 
@@ -202,7 +227,7 @@ All plan pages are under `/plans/`.
 - **Plan 5**  
   `/plans/plan-5/`
 - **Postgraduate Loans**  
-  `/plans/postgraduate/`
+  `/plans/postgraduate-loan/`
 
 Each plan page includes thresholds, interest rules, write-off timelines, repayment rates, and common borrower scenarios.
 
@@ -219,14 +244,20 @@ All comparisons are under `/compare/`.
   `/compare/plan-2-vs-plan-5/`
 - **Plan 4 vs Plan 5**  
   `/compare/plan-4-vs-plan-5/`
+- **Plan 2 vs Plan 4**  
+  `/compare/plan-2-vs-plan-4/`
 
 ### Scenario Comparisons
 - **Undergraduate vs Postgraduate Loans**  
-  `/compare/ug-vs-pg/`
-- **Public vs Private Sector Repayment Profiles**  
-  `/compare/public-vs-private/`
-- **High Earner vs Low Earner Repayment Curves**  
-  `/compare/earner-curves/`
+  `/compare/undergraduate-vs-postgraduate/`
+- **Student Loans by Profession**  
+  `/compare/student-loans-by-profession/`
+- **Career Progression Scenarios**  
+  `/compare/student-loans-career-progression/`
+- **Student Loans on £25k Salary**  
+  `/compare/student-loans-on-25k-salary/`
+- **Student Loans on £50k Salary**  
+  `/compare/student-loans-on-50k-salary/`
 
 ---
 
@@ -235,15 +266,23 @@ All comparisons are under `/compare/`.
 All region-specific content is under `/regions/`.
 
 - **England**  
-  `/regions/england/`
-- **Scotland**  
-  `/regions/scotland/`
+  `/regions/england-student-loan-system/`
+- **Scotland (SAAS)**  
+  `/regions/scotland-saas-loan-differences/`
 - **Wales**  
-  `/regions/wales/`
+  `/regions/wales-student-finance/`
 - **Northern Ireland**  
-  `/regions/northern-ireland/`
-- **Crown Dependencies / Overseas Territories**  
-  `/regions/crown-dependencies/`
+  `/regions/northern-ireland-loans/`
+- **Channel Islands / Isle of Man**  
+  `/regions/channel-islands-isle-of-man/`
+- **England to Scotland Transfer**  
+  `/regions/england-to-scotland-transfer/`
+- **NI Student in GB University**  
+  `/regions/ni-student-gb-university/`
+- **Scottish Postgraduate in England**  
+  `/regions/scottish-postgrad-england/`
+- **Welsh Student at English University**  
+  `/regions/welsh-student-english-uni/`
 
 Each region page details plan eligibility, thresholds, rules, and borrower differences.
 
@@ -253,18 +292,36 @@ Each region page details plan eligibility, thresholds, rules, and borrower diffe
 
 All lifecycle support content is under `/lifecycle/`.
 
-- **Pre-University Planning**  
-  `/lifecycle/pre-university/`
-- **University Period**  
-  `/lifecycle/university/`
-- **Graduation and Early Career**  
-  `/lifecycle/graduation-early-career/`
-- **Mid-Career and Salary Growth**  
-  `/lifecycle/mid-career/`
-- **Life Events (parenthood, breaks, moves)**  
-  `/lifecycle/life-events/`
-- **Later Career and Retirement**  
-  `/lifecycle/late-career-retirement/`
+- **Career Progression Repayment Timeline**  
+  `/lifecycle/career-progression-repayment-timeline/`
+- **Changing Course Adjustments**  
+  `/lifecycle/changing-course-loan-adjustments/`
+- **Choosing University Impact**  
+  `/lifecycle/choosing-university-loan-impact/`
+- **Clearing / Late Applications**  
+  `/lifecycle/clearing-late-application-loans/`
+- **Death Cancellation**  
+  `/lifecycle/death-loan-cancellation/`
+- **Dropping Out Consequences**  
+  `/lifecycle/dropping-out-loan-consequences/`
+- **First Job Repayment Shock**  
+  `/lifecycle/first-job-repayment-shock/`
+- **Foundation Year Costs**  
+  `/lifecycle/foundation-year-loan-costs/`
+- **Gap Year Implications**  
+  `/lifecycle/gap-year-loan-implications/`
+- **Maintenance Loan Estimator**  
+  `/lifecycle/maintenance-loan-estimator-by-city/`
+- **Placement Year Impact**  
+  `/lifecycle/placement-year-loan-impact/`
+- **Repeat Year Funding**  
+  `/lifecycle/repeat-year-funding/`
+- **Retirement & Outstanding Loans**  
+  `/lifecycle/retirement-outstanding-loans/`
+- **Study Abroad Year**  
+  `/lifecycle/study-abroad-year-loans/`
+- **Unemployment Accumulation**  
+  `/lifecycle/unemployment-loan-accumulation/`
 
 ---
 
@@ -274,28 +331,29 @@ All FAQs are under `/faqs/`.
 
 - **Main FAQ Hub**  
   `/faqs/`
-- Thresholds, interest, refunds, overpayment, write-off timing, overseas moves, employer errors.
+- **Glossary**  
+  `/glossary/`
 
 ---
 
-## Site Philosophy
+## Info & Legal
 
-This platform is designed around:
-
-- **Accuracy first:** Every calculator and guide is based on official SLC, HMRC, and devolved administration rules.
-- **Scenario completeness:** Tools cover real-world borrower edge cases.
-- **Strategy neutrality:** Guides explain outcomes without pushing a specific action.
-- **Regional correctness:** Scotland/Wales/NI rules are treated as fully distinct systems.
-- **Lifecycle awareness:** Borrowers’ decisions change over time; tools reflect that.
-
----
-
-## Site Status
-
-**Site Status:** Actively maintained and comprehensively updated  
-**Last Updated:** November 23, 2025  
-**Next Scheduled Review:** June 2026  
-**Platform Maturity:** Comprehensive coverage of all major UK student loan scenarios, regions, plans, and lifecycle events
+- **About Us**  
+  `/about/`
+- **Contact**  
+  `/contact/`
+- **Change Log**  
+  `/change-log/`
+- **Sitemaps**  
+  `/sitemaps/`
+- **Privacy Policy**  
+  `/privacy-policy/`
+- **Terms of Use**  
+  `/terms/`
+- **Disclaimer**  
+  `/disclaimer/`
+- **Cookie Policy**  
+  `/cookie-policy/`
 
 ---
 
@@ -306,10 +364,3 @@ This platform is designed around:
 - Guides — Strategy, tax, mortgages, investment: `/guides/`
 - Plans — Plan-specific information: `/plans/`
 - Comparisons — Side-by-side plan and scenario analysis: `/compare/`
-- Regions — Nation and territory-specific guidance: `/regions/`
-- Lifecycle — Event-based support and guidance: `/lifecycle/`
-- FAQs — Frequently asked questions answered: `/faqs/`
-
----
-
-**Student Loan Calculator UK provides the most complete, transparent, and borrower-focused student loan repayment toolkit in the country — with every major scenario covered, data verified against official sources and updated continually.**
